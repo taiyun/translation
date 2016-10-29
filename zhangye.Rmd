@@ -10,7 +10,94 @@ output: html_document
 
 **Breiman**: Well, let me back up a little bit on that one. My friends and I got to know this little village about 30 miles north of Puerto Vallarta called Mezcales. At the time, I was taking care of two or three kids even though I was a bachelor. But they were kids of friends of mine who had gone to Saudi Arabia to work and decided that was not a good place for kids to be.
 
+**Breiman**: 好的，让我从稍早一点说起。我的朋友和我刚知道这个 Puerto Vallarta 以北30英里的村子叫 Mezcalse. 那时候我还只是个单身汉，但是我再照顾两三个孩子。他们是我朋友的孩子，我朋友去了沙特阿拉伯工作，他认为那里不适合带上小孩。
+
 So they sort of turned them over to me. And one of the kids was a young boy who was getting picked on by two older girls. I wanted to find another boy to even the score, but I couldn’t find another boy whose parents were willing to let go of him. Then somebody asked why not take up a couple of young Mexican boys from this village of Mezcales.
 
-I went through an incredible hell with the bureaucracies—both Mexican and the United
-States—but I managed to get these two kids up to live in my house with me. At that time it was in Topanga Canyon. They went to the local grammar school along with my American kids, and it was a great success.
+所以他们差不多把孩子托付给我。其中一个是小男孩，两个年长一点的女孩带着他。我像找到另一个男孩，平衡一下，但我找不到哪个男孩，他的父母愿意把孩子交给我。这时有人建议我，何不从 Mezcales 村那里收养一对墨西哥小男孩呢？
+
+I went through an incredible hell with the bureaucracies—both Mexican and the United States—but I managed to get these two kids up to live in my house with me. At that time it was in Topanga Canyon. They went to the local grammar school along with my American kids, and it was a great success.
+
+我经历了美墨两国的官僚主义地狱，但我还是排除万难让两个小孩和我住在同一屋檐下。那时我住在 Topanga Canyon. 他们和我的美国小孩一道上初级语法学校，那是个大胜利。
+
+One reason for bringing them up is that the people in that village were dirt farmers, and the only way these kids would even get away from being dirt farmers was to learn English, because the only big industry around was the tourist industry. By the end of the year, those kids were chattering in English.
+
+我收养他们的其中一个理由是，那个村子里面的人都是自耕农，学英语是这些孩子摆脱自耕农的唯一方法，因为这里只有旅游业这一个大产业。到那一年年底，这些孩子们已经可以用英语交谈了。
+
+They were absolutely fluent. Okay. So the next summer I returned the first two, whose parents were very happy, and brought up three more. This went on for seven years until altogether I brought up something like 21 kids. By this time I had gotten to know the Santa Monica School District pretty well. 
+
+他们讲得非常流利。所以接下来的夏天，我让头两个孩子回到了他们父母身边，他们父母非常高兴，为我带来了另外三个。如此持续了7年，我总共养大了21个孩子。这时我对 Santa Monica 校区了解得非常清楚了。
+
+And by the way, the local teachers really loved my Mexican kids. And—
+
+而且，本地得老师都很喜欢我的墨西哥小孩，而且——
+
+**Olshen**: Even to get from Topanga Canyon to Santa Monica schools is a trek.
+
+**Olshen**: 即使从 Topanga 峡谷到 Santa Monica 是长途旅程？
+
+**Breiman**: It is. And I was a bachelor at the time and consulting. So I had to organize things pretty carefully. But anyhow I finally moved down to Santa Monica because what happened is the Santa Monica system caught me. What I mean by that is that they discovered I was living in Topanga, which was in the Los Angeles School District. So the kids should have been going to Los Angeles schools, which were not very good. I had them going to Santa Monica schools under the address of a friend of mine, who lived in Santa Monica. They visited that house one day and discovered the truth. And they said to me—
+
+**Breiman**: 是的。我当时还是单身，当着顾问。所以我要非常小心地安排一切。不管怎样，我最后搬到了 Santa Monica，因为 Santa Monica 相关部门抓住我了。我的意思是，他们发现我其实住在 Topanga，那是洛杉矶校区。所以孩子们要去洛杉矶的学校，这可很不好。我听了我一个住在 Santa Monica 的朋友的建议，让他们上 Santa Monica 学校。 他们去那个房子访问，发现了这个事实，然后他们告诉我——
+
+**Olshen**: They being?
+
+**Olshen**: 他们是指？
+
+**Breiman**: They being the Santa Monica School District officials.
+
+**Breiman**: 他们是指 Santa Monica 校区的官员们。
+
+**Olshen**: Okay.
+
+**Olshen**: 明白。
+
+**Breiman**: That, “You either move to Santa Monica within 30 days or the kids are out.” So I moved to Santa Monica. I got to know that school district really well. 
+
+**Breiman**: 他们告诉我：“要么你在30天内搬到 Santa Monica，要么这些孩子得退学。”所以我搬去了 Santa Monica. 我对这个校区已经了解得十分清楚了。
+
+When I was at UCLA, I had decided that the way kids were being taught mathematics was all wrong because they wound up thinking of mathematics as an awful boring subject that had nothing to do with the everyday world around them. So I decided I would teach two fifth grade classes mathematics. One I taught was at UCLA—their experimental school for emotionally disturbed kids—and then at another school in the Valley, which was just straight middle class and –
+
+当我还在 UCLA 的时候，我已经认定，孩子们接受数学教育的方式错得一塌糊涂，他们惶恐地将数学看成一门可怕又无聊的科目，和他们身边的日常世界没有一点关系。所以我决定亲自教两个五年级生数学。我教的其中一个孩子在 UCLA ——他们有给情绪障碍的孩子开的实验学校——另一个 the Valley(存疑，我怀疑这里是硅谷的意思)，刚刚上中学(存疑，straight middle class)，并且——
+
+**Olshen**: Were you paid for this?
+
+**Olshen**: 你为此付出很多吗？
+
+**Breiman**: No. No. But I had a wonderful time. And the kids had a wonderful time. We played all kinds of games. They didn’t know they were doing mathematics, but they were learning things like how to play battleship games. They were learning Cartesian geometry, they were learning algebra, they were learning all sorts of sophisticated things under the guise of playing games.
+
+**Breiman**: 不，不。相反我过得相当愉悦。孩子们也很快乐。我们玩了各种各样的游戏。他们并不知道他们在搞数学，但是他们在学习诸如如何玩战舰游戏。他们学笛卡尔几何，学代数，在游戏的引导下学习各种复杂的东西。
+
+And, you know, we would play a game like, “Okay. How far is it? How tall is that wall?” And the kids would guess and then I would sort of beat around, “How can we really find out how tall it is without climbing it?,” and things like that.
+
+并且，你知道吗，我们会玩这样的游戏：“好，那是多远？这堵墙多高？”孩子们就会猜，然后我试着绕着圈子问，“不爬上去，我们要怎样才能量出它到底有多高？”， 诸如此类。
+
+So between these two things, that is, having all of my kids wander in and out of Santa Monica schools and being really interested in how mathematics should be taught in grammar schools, I decided that the Santa Monica School District needed me. All right. So I ran for the School Board.
+
+所以，这两件事，就是，我所有的孩子都在 Santa Monica 的学校上学，我对如何在语法学校教数学很感兴趣，使得我断定，Santa Monica 校区需要我。所以我去参加校董会竞选。
+
+And it’s interesting—nobody in Santa Monica knew me. When I went to the teacher’s union for an endorsement and I talked to them, they said, “Well, we love what you’re saying, but we can’t back you because you don’t have a chance of winning.” And the Democrats wouldn’t back me because they said, “Well, you haven’t paid your dues here.”
+
+有趣的是，Santa Monica 认识我的人很少。当我跑去教师工会谋求背书，跟他们说的时候，他们回应：“我们挺喜欢你说的东西，但是我们不能支持你，因为你根本没有胜算。”而民主党也不支持我，因为他们说：“啊，你在这里没有缴费。”
+
+But I worked hard and I put on a good media campaign and talked all over the place and walked door to door and stood in supermarkets and handed leaflets to people. And, to my surprise and everybody else’s, I got elected.
+
+但我非常努力，我发起了一个效果良好的选举宣传，我到处和人谈话，逐家逐户拜访，站在超市里派发传单。最后，令我自己和别人都大吃一惊的是，我获选了。
+
+**Olshen**: How did youbecome President?
+
+**Breiman**: At that time, the Santa Monica School Board consisted mainly of local businessmen. This was in the days when Santa Monica was still a fairly conservative city. And the local businessmen respected the fact that I was really interested in education. And so they nominated me first as Vice President, and the Vice President automatically got to be President the next year. But I have to say those businessmen on the Board were really sincerely and genuinely interested in the quality of education in Santa Monica—much more so than some of the politicized and more radical people that followed them on the Board.
+
+**Olshen**: With your writing and your teaching at two universities and your career in a private sector, you’ve had to teach lots of people. Do you find that there’s a common philosophic theme or a common spirit to teaching, whether it’s a fifth grader in Santa Monica or a brilliant graduate student in Berkeley?
+
+Or is there some abiding theme that you have that permeates your teaching at all levels and also your writing? You talked about making mathematics fun and about relating it to the world around you—
+
+**Breiman**: Right.
+
+**Olshen**: —as examples
+
+**Breiman**: Let me think out loud about this. With the kids, I sort of got convinced that the crux of their failure to learn mathematics was the translation process, namely, that they were being taught multiplication or whatever in this little shut-off world and they couldn’t translate it into their real world.
+
+And that the thing that was symptomatic of this was their inability to work word problems. In word problems, what youha ve to do is take the English and utter those magic words “Let x equal.” In other words, youha ve to translate the English text into mathematics.
+
+My sense of it is that the people who turn out to be good at mathematics are those who can translate from the real world into a mathematical world and can translate from a spoken language into the language of mathematics. I think that permeates my teaching at all levels. We start with a certain problem, and I find myself drawing pictures of the problem before we ever get abstract. You’re trying to make the problem concrete before youtranslate it into the abstract.
