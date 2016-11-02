@@ -1,0 +1,267 @@
+---
+title: "Breiman Page 1-5"
+author: "huimincheng"
+date: "Wednesday, November 02, 2016"
+output: html_document
+---
+
+### A Conversation with Leo Breiman
+Leo Breiman访谈实录
+
+##Abstract
+**1：** Leo Breiman was born in New York City on January 27, 1928.
+His parents and he migrated five years later to San Francisco where he
+began school. During Leo’s junior high school years, his family moved
+again, to Los Angeles. Leo graduated from Roosevelt High School in 1945
+and entered the California Institute of Technology, from which he graduated
+four years later with a major in physics. He earned his Master’s
+Degree in mathematics at Columbia University in 1950 and his Ph.D. in
+Mathematics at the University of California, Berkeley in 1954.
+
+1928年1月28日，Leo Breiman诞生于纽约，在他出生5年后他们全家移民去了旧金山，在这里他开始了学业生活。在他读初中的时候，他们全家又移民到了洛杉矶。1945年，Leo从Roosevelt高中毕业后考进了加州理工学院，在加州理工学院他花了4年时间主修物理。1950年，Leo拿到了哥伦比亚大学的数学系硕士毕业学位，1954年，他又拿到了加州大学伯克利分校的数学系博士毕业学位。
+
+
+**2：**Leo has broad ranging scientific and mathematical interests, including information theory and the theory of gambling. He has been involved in applications coming from studies of automobile traffic, air quality and toxic substance recognition. He is the author of a celebrated graduate
+text on probability theory, is one of four authors of Classification and Regression Trees and its associated CARTR software and has also written two other books. With Jerome Friedman, Leo developed the ACE (alternating conditional expectations) algorithm by which nonlinear relationships between the dependent variable and predictor variables in regression are described. He is the originator of “bagging” and “arcing” both computer-intensive approaches to classification that are of much current interest.
+
+Leo对科学和数学有着广泛的兴趣，包括信息论和博弈论。他曾参与研究汽车交通，空气质量和有毒物质的识别的应用。
+他是概率论文本庆祝毕业的作者（存疑，“概率论文本庆祝毕业”翻译得很奇怪），分类回归树及其配套软件CARTR的四大作者之一，另外他还写了两本其他的书。Leo和Jerome Friedman一起发展了ACE（alternating conditional expectations）算法，该算法描述了因变量和自变量之间的非线性回归关系。
+他开创性地将密集型计算机方法“bagging” 和 “arcing”到分类方法里（存疑，这里翻译也很奇怪），目前很多人对此十分感兴趣。
+
+**3：**Leo’s professional positions have included being on the faculty of the
+Department of Mathematics at UCLA, an independent consultant for 13
+years and Professor of Statistics and founding Director of the Statistical
+Computing Facility at the University of California, Berkeley. 
+In addition,he has had visiting positions at Stanford and at Yale. For his many
+contributions, Leo has been honored by Fellowship in the Institute of
+Mathematical Statistics and in the American Statistical Association. He
+is an elected member of the American Academy of Arts and Sciences and
+received the Berkeley Citation from the University of California.
+
+Leo的职业生涯经历了UCLA数学系的任教，13年的独立咨询顾问，在加州大学伯克利分校统计系的教授和统计计算设施的创始主任。
+而且，他还是斯坦福和耶鲁大学的客座教授。
+由于他的诸多贡献，Leo被授予数理统计研究所（Institute of
+Mathematical Statistics ）和美国统计协会（American Statistical Association）的荣誉奖学金。
+同时，他还当选美国艺术与科学学院（American Academy of Arts and Sciences）的成员，并被加州大学授予 Berkeley Citation荣誉奖项。
+
+**4：**The interests and accomplishments of Leo Breiman extend outside the
+areas of professional statistician and probabilist. He was a waiter in
+the Catskills, a dishwasher in the Merchant Marine, a trekker into the
+heart of rainforest Africa, an active father to many children from a small
+agrarian Mexican village, a member and President of the Santa Monica
+School Board, the architect of his stunning home and an accomplished
+sculptor. Leo and his wife, Mary Lou, reside in Berkeley. He is the father
+of two daughters, Rebecca and Jessica.
+
+Leo Breiman的兴趣和成就不只限于专业的统计学家和概率学家
+他在Catskills当过服务员，在Merchant Marine当过洗碗工，还是探寻过热带雨林之心的背包客，是一群来自墨西哥农村孩子的慈爱父亲，是Santa Monica学校董事会的主席，是他美丽小屋的建筑师，同时还是一个技艺高超的雕刻家。 Leo和他的妻子Mary Lou，居住在伯克利（Berkeley），他们育有两个女儿，Rebecca和Jessica。
+
+
+Richard Olshen is Professor of Biostatics, Chief, Division of Biostatistics, Associate Chair, Department of Health Research and Policy, Professor (by courtesy)of Electrical Engineering and of Statistics, Stanford University, Division of Biostatistics, Department of Health Research and
+Policy, Stanford, California 94305-5405 e-mail:olshen@stat.stanford.edu.
+
+Richard Olshen简介：Richard Olshen是斯坦福大学生物统计教授，生物统计科（Division of Biostatistic）主任，卫生研究和政策系（Department of Health Research and Policy）的副主席，电气工程与统计系教授。
+
+This conversation was held at Leo and Mary Lou
+Breiman’s home on February 19, 1999.
+该访谈于1999年2月19日在Leo和他的妻子Mary Lou Breiman家中进行。
+
+##正文
+**Olshen：**
+Leo, I want to say that it’s a privilege to
+be here. I was an admirer of your work and taught
+from one of your books before we collaborated, in
+fact, before I knew you. I understand that you grew
+up in Boyle Heights in Los Angeles. What was Boyle
+Heights like?
+**Olshen：**
+Leo,今天在这里我感到非常荣幸。我是您的一枚粉丝，在跟您合作之前（事实上，是我认识您之前）我从您的著作中学习到了很多。我了解到您是在洛杉矶的Boyle Heights长大的，Boyle Heights那个时候是什么样的？
+
+##BOYLE HEIGHTS
+**Breiman:**
+ Well, Boyle Heights was, at that
+point, a poor Jewish ghetto, working-class Jewish
+ghetto, which was bordered on one side by the
+Mexican ghetto. It was basically a first-generation
+immigrant ghetto. My parents were immigrants;
+everyone else’s parents were immigrants.
+
+Boyle Heights那时候还是个贫穷的犹太人区，工人阶级的犹太人贫民区，与墨西哥贫民区相邻。基本上，它是第一代移民的贫民区。我的父母，那里其他人的父母也是移民。
+
+And we were all going to Roosevelt High School,
+which was busy turning offspring of immigrants into
+doctors and lawyers and scientists. It was a wonderful
+place to be. You could go into a delicatessen, get
+a pickle out of a pickle barrel, walk down the street
+and see salamis hanging and drying. It was something
+just a little upscale from the lower East Side
+of New York.
+
+而且我们都是去Roosevelt高中上学，这所高中致力于把移民的后代培养成医生、律师和科学家。
+这是一个很美好的地方。
+你可以走进一家熟食店，从泡菜桶里拿出泡菜，然后沿着街道一直走，可以比人晾晒看到salamis（意大利腊肠）。salamis是来自纽约下东区（纽约市曼哈顿区沿东河南端一带，犹太移民聚居地）有点高档的食品。
+
+
+
+**Olshen: **And better weather perhaps.
+**Olshen: **也许还有更好的天气
+
+**Breiman:**Right.
+**Breiman:**是的 
+
+**Olshen: **When did your interests in mathematics
+and science begin to emerge?
+
+**Olshen: **你什么时候把对数学和科学的兴趣结合起来的呢？
+
+**Breiman:**I got turned on by geometry in high
+school because geometry was the first subject I took
+that really impressed me. You know , when you hit
+geometry after having done algebra or added numbers
+or something, it’s so completely different and
+fascinating that a bunch of us couldn’t stop working
+on it.
+
+**Breiman:**我再高中的时候对几何感兴趣，因为地理是第一门让我印象深刻的科目。
+你知道吗，当你解决完代数或者增加数字（“增加数字”是什么东西？）什么的问题之后，挑战几何问题是一件全然不同而且令人着迷的事，以至于我们一群人在研究它的时候根本停不下来。
+
+**Olshen: **What more can youtell me about
+Roosevelt High School, the neighborhood, what got
+youinterested in Caltech and actually got youto
+Caltech?
+
+**Olshen: **关于Roosevelt高中社区你还有什么其他的能告诉我们的吗？是什么促使你对Caltech（加州理工学院）感兴趣并真正加入Caltech的呢？
+
+**Breiman:** Well, Roosevelt High School, although
+it was in one of the poorest socioeconomic neighborhoods
+of Los Angeles at that time, was also one
+of the premier academic high schools, probably for
+the same reason that, say, the Bronx High School of
+Science was.
+
+It was filled with highly motivated sons and
+daughters of immigrants, all of whom knew they
+were somehow going to wind up in college. And
+what stimulated me to go to Caltech was, I think,
+my mother’s hearing that it was the best scientific
+school in the West and deciding that her son should
+go to Caltech.
+
+**Breiman:**
+嗯，虽然Roosevelt高中那时候是洛杉矶最穷的社会经济社区之一，但它也是一流的学术高中之一。
+这个原因也许和Bronx科学高中的原因是一样的。
+
+这里充满了有激情的移民家庭的儿女，大家都知道
+我认为激发我去Caltech的原因是因为我母亲听说Caltech是西方最好的科学学校，并决定她儿子应该去Caltech。
+
+**Olshen: ** Did you have sibs?
+
+**Olshen: **你有兄弟姐妹吗？
+
+**Breiman:**No.
+
+**Breiman:**没有
+
+**Olshen: **So it really mattered what happened to
+the one, the one son?
+**Olshen: **所以唯一的儿子干什么真的非常重要
+
+**Breiman:**Right.
+
+**Breiman:**是的
+
+##CALTECH
+**Olshen: **Tell me a little bit about Caltech as it
+was when you were there.
+
+**Olshen: **能跟我讲一下你还在那的时候，Caltech 是什么样的吗？
+
+**Breiman:**Sure. The entering class at Caltech
+then was about 250 out of the many thousands who
+applied. And to get in, you had to take 16 hours
+of exams. They had no faith in high school grades
+at all. There was a four-hour exam in physics, four
+hours in math, four hours in chemistry, and four
+hours in English. And we sweated it all out.
+
+My first year in Caltech I got a scholarship, and
+I did extremely well. And then my second and
+third and fourth years, I got more and more fed up
+because I got so tired of hearing nothing but science
+and engineering that it began to turn me off.
+The place was like a scientific monastery.
+
+So as a result, my grades started going down and
+going down and going down. And in my last year, I
+got four D’s in my major subject, which was physics.
+
+
+**Breiman:**当然。那年申请Caltech的几千人，但是最终进入的只有250人。为了能被录取，你必须参与考试16个小时，因为他们完全不相信高中成绩。
+你必须考数学、物理、化学和英语四科，每科考四小时，而且我们需要把它们都写出来。
+
+在Caltech的第一年，我确实表现得很好，也拿到了奖学金。但是第二、三、四年，我变得越来越烦闷，我厌倦了每天听到的不是科学就是电气，这让我开始封闭起来。这个地方就像是一个科学修道院。
+
+所以，我的成绩开始急剧下滑，在我最后一年时，我的主修科目物理得到了4个D。
+
+
+**Olshen: **And this is what commended you to
+the University of California at Berkeley Graduate
+School?
+**Olshen: **这是让你去加州大学伯克利分校研究生院的原因吗？
+
+
+**Breiman:**No. What happened was my grades in
+physics were terrible, but I kept being interested in
+math. I did fairly well in math. I applied all over,
+and the only place that accepted me was Columbia
+University in New York City. My parents were quite
+poor and couldn’t afford the tuition at Columbia.
+
+
+But from what I had saved from working, I was
+able to go to Columbia; and I got my Master’s in
+mathematics in a year. My grades in math were
+pretty good, but actually I had gone to Columbia
+determined to become a philosophy major.
+
+
+When I got there, I talked to the head of the
+philosophy department, Erwin Edwin. At the time
+he was quite well known. And he said, patting me
+paternalistically on the knee, “Look, two of my finest
+Ph.D.’s right now can’t get jobs. Why don’t yousta y
+in math and take a few philosophy courses and see
+how it works out.”
+
+So I took a few philosophy courses—for instance,
+a course in aesthetics, a course in Greek philosophy
+and so on. I decided this is not at all what I had in
+mind. So there I was back in math.
+
+**Breiman:**不是，实际上是虽然我毕业时的物理成绩太差了，但是我还还是对数学很感兴趣。我在数学方面很好，我到处申请，最终只有纽约的哥伦比亚大学接收了我。我的父母十分贫穷，而且没法承担我再哥大的学费。
+
+但是由于之前我打工存了一些钱，所以我最终还是有能力去哥大的。然后我用1年的时间在哥大获得了数学硕士学位，但是实际上我最开始去哥大时是想主修哲学的。
+
+当我到了这之后，我和赫赫有名的哲学系系主任Erwin Edwin交谈了一番。他语重心长地拍了拍我，说道，“你看，我两个最优秀的博士生现在都没找到工作。你为什么不待在数学系，然后上一些哲学系的课看看呢？”
+
+然后我就上了一些哲学系的课，比如说美学和希腊哲学等等。
+最终，我还是决定回归到了数学。
+
+**Olshen: **Tell us exactly when this was.
+
+**Olshen: **能告诉我们具体的时间吗？
+
+
+**Breiman:**This was in 1950. I got my Master’s
+degree after a year at Columbia, and I applied to the
+Berkeley Math Department. They said, “Come.” To
+support myself, I worked one summer as a waiter in
+the Catskills and for another I was in the Merchant
+Marine.
+
+**Breiman:**那是1950年的时候，我从哥大拿到硕士毕业学位1年之后，我申请了伯克利的数学系，他们接受了我。为了能支付学费，我1个暑假在Catskills（卡次启尔山脉，位于纽约的南部）当服务员打暑假工，另一个暑假在Merchant Marine（商人海洋）。
+
+
+**Olshen: **The Merchant Marine sounds good.
+
+**Olshen: **Merchant Marine（商人海洋）听起来很不错
