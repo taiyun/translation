@@ -1,5 +1,5 @@
 ---
-title: "Breiman Page 6-10"
+title: "SANTA MONICA"
 output: html_document
 ---
 
@@ -108,8 +108,12 @@ Or is there some abiding theme that you have that permeates your teaching at all
 
 **Breiman**: Let me think out loud about this. With the kids, I sort of got convinced that the crux of their failure to learn mathematics was the translation process, namely, that they were being taught multiplication or whatever in this little shut-off world and they couldn’t translate it into their real world.
 
-**Breiman**: 让我仔细想想。和孩子们一切，我可以说确信找到他们学习数学失败的结症在于
+**Breiman**: 让我仔细想想。和孩子们一切，我可以说确信找到他们学习数学失败的结症在于翻译的过程（存疑），也就是说，他们无法把教给他们的乘法或者其他别的来自这个封闭小世界（指数学）的东西翻译到他们现实的生活中。
 
-And that the thing that was symptomatic of this was their inability to work word problems. In word problems, what youha ve to do is take the English and utter those magic words “Let x equal.” In other words, youha ve to translate the English text into mathematics.
+And that the thing that was symptomatic of this was their inability to work word problems. In word problems, what you have to do is take the English and utter those magic words “Let x equal.” In other words, you have to translate the English text into mathematics.
 
-My sense of it is that the people who turn out to be good at mathematics are those who can translate from the real world into a mathematical world and can translate from a spoken language into the language of mathematics. I think that permeates my teaching at all levels. We start with a certain problem, and I find myself drawing pictures of the problem before we ever get abstract. You’re trying to make the problem concrete before youtranslate it into the abstract.
+这和他们处理单词问题时的无能为力很相似。在单词问题里面，你所必须做的事情就是拿起英语，使用魔法词汇"令 x 等于"。换句话来说，你必须将英语文本翻译成数学。
+
+My sense of it is that the people who turn out to be good at mathematics are those who can translate from the real world into a mathematical world and can translate from a spoken language into the language of mathematics. I think that permeates my teaching at all levels. We start with a certain problem, and I find myself drawing pictures of the problem before we ever get abstract. You’re trying to make the problem concrete before you translate it into the abstract.
+
+我觉得那些数学很好的人就是那些可以将真实世界翻译到数学世界，将我们说的话翻译成数学语言的人。我认为这贯穿了我所有级别的教学。我们从一个明确的问题开始，在进一步抽象之前我发觉我会画出问题的图来。在把问题变抽象之前，你要尝试把问题具体化。
