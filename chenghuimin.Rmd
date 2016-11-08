@@ -104,9 +104,11 @@ of New York.
 
 
 **Olshen: **And better weather perhaps.
+
 **Olshen: **也许还有更好的天气
 
 **Breiman:**Right.
+
 **Breiman:**是的 
 
 **Olshen: **When did your interests in mathematics
@@ -164,6 +166,7 @@ go to Caltech.
 
 **Olshen: **So it really mattered what happened to
 the one, the one son?
+
 **Olshen: **所以唯一的儿子干什么真的非常重要
 
 **Breiman:**Right.
@@ -207,6 +210,7 @@ got four D’s in my major subject, which was physics.
 **Olshen: **And this is what commended you to
 the University of California at Berkeley Graduate
 School?
+
 **Olshen: **这是让你去加州大学伯克利分校研究生院的原因吗？
 
 
@@ -265,3 +269,483 @@ Marine.
 **Olshen: **The Merchant Marine sounds good.
 
 **Olshen: **Merchant Marine（商人海洋）听起来很不错
+
+##GRADUATE SCHOOL AT BERKELEY(在伯克利的)
+
+**Breiman:**Merchant Marine. Right. And I made
+a large amount of money for a kid in his early 20’s.
+I was the dishwasher on board ship. And I got off
+the ship just in time to proctor an exam that all
+Berkeley Math T.A.’s were supposed to be at. I took
+a taxi from the dock and I rushed over to Dwinelle
+where this big exam with hundreds of freshman was
+being given. So—
+
+**Breiman:**是的，在我20岁之前，我这样打工挣了很多钱。我在船上当洗碗工，一下船就得去监考，监考是所有伯克利助教必须干的事。从码头叫了一辆出租车，我迅速地奔向大一新生考试的地方Dwinelle，所以—
+
+**Olshen: **So you interleaved your sailing career with your mathematical career?
+
+**Olshen: **所以你的航海生涯和数学生涯交错进行？
+
+**Breiman:**Right. Right.
+
+**Breiman:**确实是
+
+**Olshen: **Excellent. Tell me a little bit about the
+influence of David Blackwell and others with whom
+you studied at Berkeley. I’m thinking in particular
+with regard to two subjects: one of them is the
+Shannon–Breiman–MacMillan theorem (Breiman,
+1957) and the other is your work on gambling
+(Breiman, 1960).
+
+**Olshen: **棒极了，能跟我们讲讲David Blackwell对你的影响吗？还有其他跟你一起在伯克利学习的人也可以讲讲吗？我其实是想问的是和这两个主题相关的：一个是Shannon–Breiman–MacMillan理论(Breiman,
+1957)，另外一个是你博彩系统相关的工作(Breiman, 1960)。
+
+**Breiman:**Well, I was in the Math Department
+at Berkeley at that time. There was no separate
+statistics department. There were a few people at
+that time who Neyman managed to bring in, such
+as Michel Lo`eve. And I was taking mathematics
+courses, and then I took the probability course from
+Michel Lo`eve, and I loved it. I loved probability theory.
+And that was quite a class, a probability course
+of 10 people or so. Manny Parzen was in that class,
+Howard Tucker, too, and one or two other people
+who went on to become well known in statistics.
+Then I wrote a thesis. But Michel Lo`eve was a perfectionist,
+kept me working on the thesis, and working
+on the thesis.
+
+**Breiman:**好的，我当时是在伯克利的数学系，那会儿还没有独立的统计系。那个时候，Neyman想引入一些人，比如Michel Lo`eve。当时，我上的概率论这门课是Michel Lo`eve教的，我非常喜欢这门课，我喜欢概率论。
+
+这是一门很好的课程，一门大概只有10个人左右的课程。Manny Parzen也在这个课堂里，还有Howard Tucker，还有一两个后来在统计界声名远扬的人。然后我写了一篇论文，但是Michel Lo`eve是一个完美主义者，他让我在论文上不断下功夫。
+
+**Olshen: **I can’t help but be reminded that Michel
+Lo´eve was my adviser when I was a freshman at
+Berkeley. And the first words he spoke to me when
+I walked in his office were, “Youbetter make all A’sor I’m going to throw youou t of this window.” That
+was his speech to a frightened freshman!
+
+**Olshen: **我情不自禁地想起来，当我大一刚入学时，我的导师是Michel
+Lo´eve，他在办公室对我说的第一句话就是，"你最好全部课程都得A，不然我会把你从窗户扔出去。"
+
+**Breiman:**That sounds like Michel. So I had
+written this thesis, and I thought it was pretty
+good. Michel kept saying, “Well, I don’t know.”
+Then, Harold Cram´er came to Berkeley for a
+semester and organized a seminar. And I gave my
+thesis results in his seminar.
+
+Afterward he said, “I’ll have to talk to Michel and
+tell him I think this is pretty good.” But the other
+important thing that happened was I got a notice
+from my draft board saying, “This is it. You’ve used
+up all of your deferments. We expect to see you here
+in 30 days.”
+
+
+And so I handed Michel a copy of the latest version
+of my thesis, with the draft notice on top. And
+he took one long look, and he said, “Well, we have to
+get youou t of here pretty fast.” So he organized the
+final defense of the thesis in about two weeks and
+put a stamp of approval on it. I was thrilled. Then
+I served almost two years in the Army.
+
+**Breiman:**这听起来很像是Michel的风格，所以虽然每次我写完论文觉得这已经很不错的时候，Michel都会说“我不知道”。然后，Harold Cram´er来到了伯克利一学期，我在他组织的研讨会上提交了我的论文结果。
+
+他说，“我必须跟Michel好好谈谈，我觉得这篇论文已经很不错了”。
+但是，这时候一件更加重要的事情发生了，我收到了一个来自征兵局的通知，通知上说“注意！你已经用尽了所有的延期时间，我们希望在30天之后在这里看到你”
+
+所以我给Michel提交了我最新一版论文的复件，同时把那个征兵局的通知也放在上面。Michel盯着它看了很久，然后说，“好吧，我们必须让你尽快离开这里了”。大概在两周之后，他组织了论文的最后答辩，然后我的论文获得了批准，我当时很激动。离开伯克利之后，我服役了将近两年。
+
+**Olshen: **Wait. Let’s back up. Was your thesis
+related to the Shannon–Breiman–MacMillan
+theorem or to gambling?
+
+**Olshen: **等一下，我备份一下。你的毕业论文和Shannon–Breiman–MacMillan理论有关还是和你的博彩系统有关呢？
+
+
+**Breiman:**No. What happened was that in the
+Army then, you could get out two months early if
+youhad a job. I wrote to Professor Neyman and he
+gave me a job as acting assistant professor. I came
+back and at that time I got to know David Blackwell
+pretty well.
+
+We used to sit in seminars, and he would send
+me these little notes saying, “Can youprove this
+and this and this?” And one of the notes he sent
+me was, “Can youprove that this thing converges
+almost surely to the following?” And I thought about
+it for the next couple of days. And then I thought,
+“Yes. I can do that. I can see how to do that.”
+That was how the Shannon–Breiman–McMillan
+Theorem (Breiman, 1957) came about. Dave Blackwell
+was, for me, an incredibly inspirational person
+to work with. To see the way his mind worked was
+terrific.
+
+**Breiman:**不是的，当时我在的军队有个规定是，如果你能找到工作，你就可以提前两个月出去，我写信给Neyman教授，他给了我一个代理助理教授的工作，于是我就回来了，也就是那个时候我开始结识了David Blackwell。
+
+我们那个时候一起开研讨会，他经常拿一些笔记来问我，“你会证明这个这个和这个吗？”
+有一次，他给的一个笔记上写着，“你能证明这个几乎收敛于下面的式子吗？”
+我想了好些天，然后我觉得我可以做到，我觉得我已经有思路了。Shannon–Breiman–McMillan理论(Breiman, 1957)就是这么诞生的。和Dave Blackwell一起工作十分的鼓舞人心，他思考问题的方式真的非常了不起。
+
+**Olshen: **Did he get youinto this whole business
+of getting rich quickly on favorable games (Breiman,
+1960)?
+
+**Olshen: **是Dave Blackwell促使你进入博彩这个领域的吗？
+
+**Breiman:**No. How that happened was pretty
+much on my own. I was thinking about the Kelly
+criterion.
+
+**Breiman:**不是的，完全是因为我自己。我当时在思考凯利指数。
+
+**Olshen: **Tell me about that.
+
+**Olshen: **跟我讲讲怎么回事
+
+**Breiman:**The Kelly criterion roughly says that
+if youdo a certain kind of betting in a simple favorable
+game, you can make your winnings go to infinity.
+It was not almost surely, but that the expected
+values would go to infinity. I thought about Kelly’s
+results for a while. Then I realized that they might
+lead to an optimum strategy for playing favorable
+games.
+
+And that’s what set me off. It was an accidental
+thing. David was not involved. I don’t think that at
+that point he was interested in gambling at all.
+
+**Breiman:**凯利指数大概是说，如果你在一个有利的赌局中下赌注，你就可以赢得无穷多的钱。这也不是一定的，但是至少你的期望收益会是无穷的。我思考了一下凯利指数，然后我意识到他们其实是在采取最优策略来玩一局有利于自己的赌局。
+
+这是我研究博彩的动机，完全是因为机缘巧合。David 没有参与进来，而且我觉得他应该对博彩业不感兴趣。
+
+##SELLING ICE IN MEXICO(在墨西哥卖冰的那几年)
+**Olshen: **It’s become clear already that you’ve
+always had wide-ranging interests. One that’s fascinated
+me, although I can’t pretend to understand
+it yet, is the scheme for selling ice in Mexico. Can
+you tell us about that?
+
+**Olshen: **大家都知道你涉猎广泛，其中你在墨西哥卖冰那件事非常吸引我，但是我到现在也不太清楚，你能跟我讲讲那个吗？
+
+
+**Breiman:**Right. Well, that’s actually due to a
+couple of friends of mine who went down to Puerto
+Vallarta in, I think, 1964 or ’5, the year after the
+movie Night of the Iguana was made. This was when
+Puerto Vallarta was just this little town and you had
+to boil all of your water.
+
+
+
+The other thing you had to be careful about was
+if they put ice in your drink, don’t drink it. All
+the local ice was made out of local water and was
+swarming with bacteria. So my friends got this idea,
+which also interested me, of getting a purified ice
+machine down to Mexico and setting up a factory
+for making purified ice.
+
+
+I thought that was great and I said, “I’ll invest.”
+What happened was, sure enough, they bought this
+old ramshackled building called El Bucanero, the
+bucaneer. They set up an ice plant in it and it was
+a great success. And the ice was known throughout
+Puerto Vallarta because they sucked the impurities
+out of the middle so that the ice looked like
+little donuts. And wherever youwent, if yousa w
+a drink with little ice donuts in it, you knew you
+were okay. After a while, it was so successful that
+the mayor’s son decided to go into the purified ice
+business. And sure enough, all our good customers
+somehow started patronizing the mayor’s son’s ice
+factory. And business dried out. But it was great
+while it lasted.
+
+
+**Breiman:**好的，实际上那是因为我的几个朋友在1964年或者1965年去了Puerto
+Vallarta，具体年份我记不太清楚了，但是正好就是在Night of the Iguana这部电影上映之后的一年。
+当时，Puerto
+Vallarta还只是一个小城镇，你需要把你所有的水都煮沸才行。
+
+另外一件你需要注意的事就是，如果有人在你的饮料中加了冰块，千万不要喝。
+因为当地的冰块都是用当地的水做的，都充满了细菌。所以我的朋友就想出了一个点子：把
+纯化的制冰机送到墨西哥，并且建立一个专门净化冰的工厂，这个想法同样让我觉得很感兴趣。
+
+我觉得这很棒，我说，“我也要投资”。接下来他们买了一栋旧得几乎摇摇欲坠的建筑，叫做El Bucanero。
+他们在这里建立起了冰厂，这是一个伟大的成功。然后这个厂净化出来的冰在Puerto Vallarta远近皆知，因为他们从冰的中间把杂质吸出来，所以看起来像一个甜甜圈。在Puerto Vallarta，无论你走到哪，你都可以看到一杯装有甜甜圈冰块的饮料。没多久，市长的儿子也决定开始做净化冰的生意。
+果然，我们所有的顾客都跑去光顾市长儿子的生意了。所以我们的生意就黄了，但是净化冰这件事持续下来了，这非常伟大。
+
+
+**Olshen: **Sounds good.
+
+**Olshen: **听起来很棒
+
+**Breiman:**Uh-huh.
+**Breiman:**嗯，是的。
+
+##THE UCLA YEARS（在UCLA的那几年）
+**Olshen: **Now I’m going to change the subject
+somewhat radically in order to segue into your
+career at UCLA. And, in particular, I want to ask
+yousomething that I’ve always wondered very
+much about. And that is, how did you come to
+write that wonderful book on probability (Breiman,
+1968)?
+
+**Olshen: **现在我要继续和你谈谈你在UCLA的职业生涯了，其实我是想问一些我一直非常想知道的事。
+就是你怎么想到写probability (Breiman,1968)这本伟大的书的呢？
+
+**Breiman:**When I went to UCLA I went because
+I only had an acting appointment at Berkeley. And
+those days the rule was pretty strict that if you were
+a Berkeley Ph.D, you definitely couldn’t get your
+first job at Berkeley. The next best thing looked to
+me like UCLA.
+
+So I walked in off the street and went to the Math
+Department and said, “I would like to get a job.”
+They got some letters about me, and I got a job. I
+was there for about seven years, and I actually got
+tenure fairly quickly. I was their only probabilist. So
+I was teaching the graduate course in probability
+theory.
+
+
+I taught it about three or four years. And through
+this whole teaching, I kept trying to figure out really
+what was going on in probability theory—going on
+in the sense of working on proofs until I really
+understood or figured I could understand what
+made the thing work.
+
+
+Well, after about seven years at UCLA I said
+to myself, “Look. Leo, you’re not cut out to be an
+abstract mathematician. It’s been fun, but this isn’t
+going to work for you.” So I resigned.
+
+**Breiman:**我进入UCLA是因为，我在伯克利只有一份代理职位（疑惑，这里不知道如何翻译acting appointment）。那时的规则非常严格，如果你是一名伯克利的博士生，那么你铁定不能在伯克利找到你的第一份工作。那么接下来对我来说，去UCLA对似乎是最好的选择了。
+
+所以我走在街上，并进入了数学系说，“我是来求职的”。他们收到了一些关于我的信件，然后我获得了一份工作。我在这儿一待就待了7年，实际上我很快就拿到了终身教授的职位。我是他们唯一的一名概率学家，所以
+我教研究生概率论的课程，教了大概3到4年。
+
+在整个教学过程中，我一直努力搞清楚概率论究竟在讲什么，有些需要证明的就证明清楚（这句话翻译得也不好）。
+
+在UCLA待了大概7年之后，我对我自己说，“Leo,你天生就不是做摘要数学家（疑惑，abstract mathematician不知道如何翻译）的料，它虽然很有趣，但不是你该做的工作。”于是，我辞职了。
+
+**Olshen: **Now, the book had been written by then?
+
+**Olshen: **到那时，你已经写了这本书了吗？
+
+**Breiman:**No.
+
+**Breiman:**还没有
+
+**Olshen: **Oh, it hadn’t?
+
+**Olshen: **那个时候还没有吗？
+
+**Breiman:**No.
+
+**Breiman:**没有
+
+**Olshen: ** Okay.
+
+**Olshen: **好吧
+
+**Breiman:**So I took out the money that I had put
+into the retirement system, and I spent six months
+doing nothing but writing the book. This was quite
+a period of time because it took strong discipline to
+write it. But again it was also a lot of fun, and it
+was my first born.
+
+Thus, I was tickled pink when SIAM approached
+me just three or four years ago and said, “We want
+to republish it in our classic series” (Breiman, 1968).
+
+**Breiman:**所以我拿出了放在我退休系统中的钱，然后我花了6个月时间专门来写这本书。
+这是相当长的一段时间，因为写这本书需要很强的纪律性。
+但是同时这个过程又充满了乐趣，它是我的处女作。
+
+因此，当3、4年前SIAM([美国]工业及应用数学学会) 找到我说，“我们想在经典系列中再版你的书”时，我喜出望外。
+
+**Olshen: **I’ve heard that youwent to Africa during
+your time at UCLA.
+
+**Olshen: **我听说你在UCLA工作期间，还去了非洲。
+
+**Breiman:**Yes. This is the way it happened. I
+wanted a sabbatical that would be really different.
+So I went to UNESCO and I said, what have yougot
+for me? I don’t want to teach in a university. And
+UNESCO finally said, “We’ve got a place for youas
+an educational statistician in Liberia.”
+
+So I went to Liberia as an educational statistician
+and what did they need? They needed to find out
+how many kids they had in the schools. Why was
+this a problem? They only had 50 miles of paved
+road in the whole country. The schools were in the
+rain forest jungles that were virtually inaccessible.
+So we formed teams. We formed about 20 teams
+to ride or paddle or walk all over the country, that
+would go into little villages, call out the school children,
+and just count them.
+
+And so I lived there, I went on a number of these
+treks into the backwoods, into tunnels in the rain
+forest jungles that came to villages, and what was
+amazing when I got there was that little children
+would walk up to me and rub my skin to see if the
+white would come off. That was an altogether fascinating
+experience. I just loved the life in Africa and
+I was sorry to leave.
+
+**Breiman:**是的，确实是这样。我想要一个不同寻常的休假，所以我去了UNESCO（联合国教科文组织），然后我对他们说，“我不想在大学里教书，你们能给我什么其他的呢？”
+最后UNESCO告诉我，“我们有一个在Liberia（利比亚）当教育统计学家的机会给你。”
+
+所以我就以一名教育统计学家的身份去了Liberia（利比亚），那么他们需要什么呢？他们需要知道全国所有学校里的学生有多少人。为什么这会是个难题呢？因为整个国家只有50英里铺设好的道路。很多学校都在热带雨林丛林里，这些地方看起来根本没法进入。所以我们组了大概20支队伍，以骑车、划船和走路的方式走遍全国，深入到那些小村庄，把学校里的孩子们都叫出来，然后数一下人数。
+
+所以我住在这里，艰苦跋涉去了很多边远地区，经过了热带雨林丛林中通往村庄的隧道。
+很神奇的是，当我到达村庄的时候，小孩子们会过来搓我的皮肤，看看能不能把我皮肤上的白色搓下来。
+那是一种非常有趣的体验，我几乎爱上了在非洲的生活，而且很遗憾要离开这里。
+
+**Olshen: **Tell me now about your interactions
+with Bill Meisel and about how you came to Technology
+Services Corporation and your position
+there.
+
+**Olshen: **跟我讲讲你与Bill Meisel的合作，以及你是如何去TSC（技术服务公司）工作的
+
+##AN INDEPENDENT CONSULTANT（一名独立的顾问）
+**Breiman:**After I resigned from UCLA and I
+used up my retirement money, it became pretty
+clear I needed to do something to support myself.
+So I asked around. And at the time, SDC—Systems
+Development Corporation—which was an offshoot
+of Rand, had a lot of Federal money for research
+into freeway traffic.
+
+I had written an article about how traffic
+approached a Poisson process (Breiman, 1963) and
+I knew someone who worked in traffic research.
+And he said, “Sure. Youknow , why don’t you consult
+for SDC.” So I consulted for them for about a
+year on traffic. It was a lot of fun trying to figure
+out what freeway traffic looked like and what its
+statistical characteristics were.
+
+
+Then that money dried up. So I was asking around
+again, and Pete Payne, who was another consultant,
+said, “Well, I think TSC” —this firm, Technology
+Services Corporation— “is looking for consultants.”
+So I went over there and Bill Meisel interviewed me.
+We talked for a while. And he said, “Okay. You’re
+on. When can youstart?” Bill was a very interesting
+guy because he had been on the faculty of USC
+Engineering.
+
+**Breiman:**从UCLA辞职之后，我开始花我的退休金，很显然我需要干一些别的事业来养活我自己。
+所以我四处询问，当时Rand旗下的SDC系统发展公司，有一大笔联邦资金用于研究高速公路交通。
+
+我之前写过一篇关于交通流量服从泊松分布的文章(Breiman, 1963)，而且我认识一个在交通研究工作的人，他对我说，“你为什么不给SDC当咨询顾问呢？”所以接下来的一年我就给SDC当咨询顾问了。
+研究高速公路交通流量数据长什么样以及它的统计特征是什么，是一件充满乐趣的事。
+
+之后这笔联邦基金花完了，所以我又四处询问。另一位顾问Pete Payne告诉我，“我觉得TSC（技术服务公司）在招聘顾问。”所以我去TSC应聘，Bill Meisel面试了我。我们交谈了一会儿之后，他说，“OK，你被录用了，你什么时候可以开始呢？”Bill是一个十分有趣的人，因为他在USC工程系任教过。
+
+**Olshen: **Did youknow him at Caltech?
+
+**Olshen: **你之前在Caltech的时候就认识他吗？
+
+**Breiman:**No. Not at all. And he had written a
+book on pattern recognition. TSC was essentially a
+radar house, a defense house, not a very big outfit,
+maybe 50 or 60 technical people. And Bill was
+running this sort of odds and ends division that he
+decided to focus upon its becoming an Environmental
+Division.
+
+
+So I started consulting for the Environmental
+Division. Between the two of us, we started writing
+proposals to the EPA, to the California State
+Air Pollution Board and so on. And we began winning
+a lot of these proposals. I started doing a lot
+of work that was EPA sponsored on air pollution,
+water pollution and a variety of things of that sort.
+A lot of the problems that we dealt with in those
+days involved large amounts of data. For instance,
+in one big project we had seven years of hourly and
+daily data on over 450 variables relevant to air pollution.
+We were trying to predict next day ozone
+levels in the Los Angeles Basin.
+
+Bill was very instrumental in getting me to think
+about problems such as classification and regression.
+For EPA, and many of the other places around
+that were funding research, so many of the problems
+were prediction and classification that this was
+a hot area. And this was an area that Bill knew
+something about. And he pushed me into this area.
+
+**Breiman:**不，完全不认识。他还写过一本关于模式识别的书。
+TSC基本上是一个雷达室，一个防御室，不是一个很大的公司，里面大概就是50到60个技术人员。
+Bill当时管理这种零碎的部门，然后他决定集中精力让它成为一个环保部门。
+
+所以我开始给环保部门当顾问，我们两个开始写提案给EPA（Environmental Protection Agency，美国环保署）和加利福尼亚州空气污染董事会等。我们开始赢得了很多赞成和支持。
+我开始做一些EPA赞助的空气污染工作、水污染工作和各种各样诸如此类的工作。
+我们遇到的很多问题都涉及到大量的数据，比如说在一个大项目里我们有7年每天每小时的空气污染数据，涉及到450个和空气污染相关的变量。
+我们尝试预测洛杉矶盆地第二天的臭氧浓度。
+
+Bill非常有助于我思考分类和回归的问题。对于EPA和周围很多其他资助研究的地方来说，大多数的问题
+都是预测和分类，这是一个热门领域。Bill对于这个领域有所了解，他推动我进入这个领域。
+
+Olshen: Smells like the beginnings of CARTR to
+me. (Breiman et al., 1984).
+
+**Olshen: **听起来这是CARTR(Breiman et al., 1984)的开始。
+
+
+**Breiman:**Well, that’s right. We were working
+on prediction problems like next day ozone in the
+Los Angeles basin, carbon monoxide levels on freeways,
+but also things such as could we recognize the
+sender of handset Morse code—this was something
+we were doing for the spook agencies—or could we
+recognize from sonar returns whether the other
+submarine was Russian or American? Or could we
+recognize whether that battleship we were getting
+radar returns from was Russian or American? So a
+lot of this stuff was fascinating classification stuff.
+At the same time, Bill went for almost every interesting
+statistical request for proposals he could see.
+
+For instance, one thing we did was a study of
+delay in criminal courts in Colorado. We did some
+other work for the criminal court system. I designed
+some surveys and helped supervise surveys for the
+EPA.
+
+Thus, I was doing a whole bunch of things that
+taught me about statistics—what you did with
+statistics and data while youwere trying to solve
+problems. Does that answer your question?
+
+**Breiman:**是的，说的没错。我们在研究预测问题，比如说第二天洛杉矶盆地的臭氧浓度，
+高速公路上的一氧化碳浓度，还有一些其他的研究，比如是否能识别出摩尔斯电码是从哪个手机上发送的（这是我们为间谍机构做的事）？或者我们能否通过声呐返回技术识别出潜水艇是俄罗斯的还是美国的？或者我们能否通过雷达回波技术识别出战舰是俄罗斯的还是美国的？很多这些问题都是迷人的分类问题。同时，
+Bill对于几乎一切能看到的有趣的统计需求，他都提出建议方案。
+
+比如，我们做的其中一项是Colorado刑事法庭的延迟研究，我们也为刑事法庭系统做了一些其它的工作。我也设计了一些调查来帮助EPA监督管理。
+
+因此，从这一大堆工作中我对统计学有了更加深刻的认识，我学会了在尝试解决问题时，如何使用统计学和处理数据。这些回答了你的问题吗？
