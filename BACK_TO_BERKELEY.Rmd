@@ -1,0 +1,137 @@
+---
+title: "BACK_TO_BERKELEY"
+output: html_document
+---
+
+**Olshen**: Thank you. To move on, chronologically, how and why did you come to Berkeley?
+
+**Olshen**: 谢谢，接下来，你是怎样来到伯克利的？还有，为什么会来？
+
+
+**Breiman**: In my consulting, I had gotten various offers, to my surprise, to come back (as my friends called it, “come back in out of the cold”) to a university. And I didn’t particularly want to. I was having a wonderful time consulting. There I was solving real problems, working with data, things that I loved.
+
+**Breiman**: 在我当咨询顾问期间，令我讶异地，我获得回到（用我朋友的话来说， "come back in out of the cold"）大学工作的工作机会。而我不是特别乐意。我在咨询行业工作得十分愉快。在其中我解决真正得问题，用数据工作，如此等等，都是我热爱的。
+
+But then one day I got a phone call from Peter Bickel and he said, “Would you like to come up to Berkeley for a semester just to teach and give a seminar?” And I said “Sure.” Did that, went back and that was a good time.
+
+但有天我忽然接到 Peter Bickel 打来的一个电话， 他说：“你要不要来伯克利讲一个学期的课，搞个讨论班？”然后我说：“好。” Did that, went back and that was a good time.
+
+**Breiman**: Afterward, I went back down to LA and about a year later, I got another phone call— I think this time from Dave Brillinger—saying, “Okay. Would you like to come up and be a faculty member?”
+
+之后，我回到洛杉矶，大约一年后，我接到另一个电话——我记得这次是 Dave Brillinger 打来的——说：“好了，你要不要来担任教职？”
+
+Now at that time there was only one place in the world that could have convinced me to come back into academia and that was Berkeley. I had done my graduate work here, I still had a lot of friends here and I loved it here, so I said, “Okay.”
+
+现在看来，在那个时候，世界上只有一个地方可以说服我回去学术界，那就是伯克利。在这里，我完成了我的研究生工作，还有很多朋友，我爱这里，所以我回答他：“好。”
+
+**Olshen**: When you came here, was it with a view to founding the Statistical Computing Facility or did that just evolve? Tell me about it, the struggles for resources, your leadership and what you see of it in the future.
+
+**Olshen*: 当你来到这里的时候，你是已经有一个创立统计计算专业的观点了吗？还是说，这个观点是你逐渐发展来的？告诉我关于这方面的事情，如何争取资源，你的领导以及在你眼中，它的未来会是怎样？
+
+**Breiman**: Let me back up just one minute if I can, Richard.
+
+**Breiman**: 如果可以，先让我准备大约一分钟吧，Richard.
+
+**Olshen**: Please.
+
+**Olshen**: 请。
+
+**Breiman**: Because, you see, when I left the university, in a way I knew I was burning my bridges in terms of ever coming back to the university again because for all the years I was consultant, let’s say for 13 years, I think I had maybe one publication. I mean, you’re not paid as a consultant to publish; You’re paid to solve problems.
+
+**Breiman**: 因为，你看，当我离开大学的时候，某种意义上，我已经破釜沉舟，断了回大学的路，因为这些年，大概是13年，我都是一个咨询顾问，我应该只出了一本出版物，我的意思是，你不会给钱一个咨询顾问让他出书，你给钱他是让他解决问题的。
+
+So I think it was rather extraordinary that Berkeley managed to get me hired back as a senior faculty member. And, you know , I’ve never known the full story of how they got it through. Nobody has ever seen fit to tell me. I think I’ll have to ask at some point.
+
+所以我觉得，伯克利居然给了我一个高级教职，这很不寻常啊。而且，你要知道，我从来都不知道这件事情他们是怎样操作的。好像没有人适合告诉我内情。我想有朝一日我会去问个水落石出的。
+
+**Olshen**: There doesn’t seem to have been a lot of bad news associated with the appointment. Maybe it’s just best to let it go. But now tell me about the Statistical Computing Facility.
+
+**Olshen**: 但这个任命还没有带来坏消息。也许随它去就好了。但请告诉我关于统计计算专业的事情。
+
+**Breiman**: What happened was this. When I got to Berkeley, all the computing in the department was essentially done downstairs in the Central Computing Facility.
+
+**Breiman**: 事情是这样。我到伯克利的时候，系里所有的计算基本上都是在中央计算实验室楼下做完的。
+
+**Olshen**: Downstairs in Evans Hall?
+
+**Olshen**: 埃文斯楼楼下？
+
+**Breiman**: In Evans Hall. They had a big multiprocessor computer main frame, and we had a little PDP-11 in the department, which was virtually worthless, had 32 kilobytes of main memory and so on. I remember my first visit down to the Central Computing Facility. I asked them, “What statistical packages do you have?”
+
+**Breiman**: 就在埃文斯楼。他们有一个大的多核主机，我们系里只有一个小的 PDP-111 (TODO:要加译者注)，它的主内存只有32kb，还有其他各种各样的问题。我记得我第一次去中央计算实验室。我问他们，“你们有什么统计包吗？”
+
+And they said, “Well, I think we have BMDP. No. We don’t have the whole thing. We only have parts of it.”
+
+然后他们说，“啊，我们貌似有 BMDP (TODO: 译者注)。不，我们没有整个包。我们只有一部分。”
+
+And I said, “Well, do you know what parts you have?”
+
+然后我又说，“那好，你知道你们有哪些部分？”
+
+And they said, “Well, we’ll try to find out.”
+
+最后他们说，“嗯，我们会去找找看。”
+
+I was supposed to teach this course in multivariate analysis. And it was clear that for the department to ever get into any kind of relationship with data, they had to have a decent computing facility. And the basement of Evans was not the answer. So I said, “Okay, the first thing I’m going to try to do is to get a decent computing facility here.”
+
+我原计划教多元分析。很显然，如果要计算各种数据的关联，我们系必须要有一个合适的计算实验室。埃文斯的地下室显示不适合。所以我说，“好，我要做的第一件事，就是建立一个足够好的计算实验室。”
+
+This was 1980, and the best minicomputer we could get was the VAX 750. It was sort of within our price range. It had a 16-bit system, a lot more memory and it cost about $75,000 at a discount price.
+
+那是1980年，我们可以买到的最好的微机是 VAX 750。它的售价在我们的价格范围内。它有一个16位系统，内存很多，打折之后仅售75,000美元。
+
+**Olshen**: Did you have the support of the University administration in all this or was this all out of the Department of Statistics?
+
+**Olshen**: 你有来自学校当管理层的帮助吗？还是说全都是统计系的功劳？
+
+**Breiman**: All out of the Department of Statistics. We had no money.
+
+**Breiman**: 都是统计系的功劳。我们没钱。
+
+**Olshen**: Uh-huh.
+
+**Olsehn**: 嗯哼。
+
+**Breiman**: And all I had was a tin cup that I was rattling.
+
+**Breiman**: 我所有的，只有手中咯咯作响的一只锡杯。
+
+**Olshen**: And an ice machine in Mexico.
+
+**Olshen**: 还有墨西哥的制冰机。
+
+**Breiman**: Right. So I started calling around, trying to find out if we could get the Federal agencies to possibly fund the VAX. And I hit up Ed Wegman at ONR. And I said, “Ed, if we’re going to do any decent amount of any applied research, we’ve got to get a computer.”
+
+**Breiman**: 对。所以我开始到处打电话，看看能不能找到联邦机构为 VAX 提供资金。 最后我找到海军研究办公室(ONR)的 Ed Wegaman 。 我对他说，“Ed， 如果我们还想做一丁点应用研究，我们一定要有电脑。”
+
+He said, “How much?”
+
+他问：“多少钱？”
+
+I said, “$75,000.”
+
+我回答说：“75,000美元。”
+
+He said, “Okay. Send me a proposal.” And Ed sure enough came through. And that was our first VAX. We got that installed and hired a graduate student as our first system manager. And from then on it was easier—once you break the ice, it gets easier. After many donations and grants, we are now running 2,000 accounts per year with four full time high level staff members and substantial computing power. We also support computing in economics and biostatistics.
+
+他说：“好的。给我发一份计划书。” Ed 最后搞定了。那是我们第一台 VAX 。我们把他组装起来，招了个研究生做系统管理员。自此之后，事情变得轻松了——一旦你破开冰层，事情就变得简单了。获得许多捐款和赠送滞后，我们现在每年有2,000账号，4个全职高级成员还有大量的计算资源。我们还支持经济学和生物统计的计算。
+
+**Olshen**: In parallel with your activities in forming the SCF, there was also the rise of the Berkeley UNIX Group. Was there any articulation between the statisticians and the Berkeley UNIX Group, and did you run UNIX or VMS on your VAX?
+
+**Olshen**: 在你组建SCF的同时，伯克利 UNIX 小组也开始崭露头角。统计和伯克利 UNIX 小组之间有什么联系吗？，你会在你的 VAX 上跑 UNIX 或者 VAX。
+
+**Breiman**: There are some wonderful stories about this. When I came to Berkeley, David Freedman was chairman. And Dave, I think, had a lot to do with my appointment in Berkeley because he and I had known each other for quite a while. He was also running our PDP-11. Dave got fascinated by computing.
+
+**Breiman**: 关于这个有一些美妙的故事。我来伯克利的时候，David Freedman 还是主席。而 Dave ，我觉得他和我在伯克利就职有很大关系，因为他和我相互了解很久了。那时他还用我们的 PDP-11. Dava 被计算深深吸引住了。
+
+The PDP-11 was running UNIX, except there was some guy in the Math Department that had some programs that would only run under the RISTUS operating system (which was the other operating system you could run on the PDP-11). So we had an agreement. For four days we would run UNIX and three days RISTUS. And Dave Freedman, every three or four days, had to go in, change the operating systems and reboot.
+
+PDP-11 当时运行着 UNIX，除非数学系的家伙有问题需要在 RISTUS 操作系统下解决（这是一种可以在 PDP-11 上跑的操作系统）。所以我们有个协议。4天跑 UNIX 三天跑 RISTUS。而 Dave Freedman， 每隔三天或者四天，就要去更换操作系统，重启电脑。
+
+**Olshen**: Amazing!
+
+**Olshen**: 精彩！
+
+**Breiman**: Right.
+
+**Breiman**: 对。

@@ -1,0 +1,249 @@
+---
+title: "CART, ACE, PIMPLE, THE LITTLE BOOTSTRAP, BAGGING, BOOSTING AND ARCING"
+author: "zhangyet"
+date: "2016/11/8"
+output: html_document
+---
+
+Olshen: Let’s move on now. I want to hear about
+your more recent scientific interests. In no particular
+order, I can think of ACE (Breiman and
+Friedman, 1985), PIMPLE (Breiman, 1991), the little
+bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire,
+1996, 1997), arcing (Breiman, 1998), and CARTR.
+Whereas perhaps in time they will be, for now they
+are not necessarily all statistical household words.
+
+Breiman: Probably for the part of my life that
+began after I resigned from UCLA, I think the most
+significant thing was CART, of which youare a part.
+And as youknow , that was a very exciting period.
+All those ideas going back and forth among youand
+me and Jerry Friedman and Chuck Stone.
+
+Even so, after the CART book (Breiman et al.,
+1984) was published, I think all of us—maybe you
+not as much as the rest of us—were completely fed
+up with thinking about trees. We just had had too
+heavy a dose. So our interest turned elsewhere. But
+Jerry and I kept talking.
+
+Jerry and I had both been hired by Bill Meisel
+as consultants to TSC. So I got to know Jerry
+fairly well a good number of years before I came
+up to Berkeley. Jerry and I kept talking because I
+think we’re two of the very few statisticians around
+who are actually interested in how to analyze
+high-dimensional data.
+
+And one of the things we were talking about, one
+of the outstanding problems–this was in ’86, ’87—
+that John Tukey kept talking about was, “How do
+youtransform variables in ordinary linear regression
+to get more effective prediction? Should you be
+using log X? Should you be using X? What?”
+
+So Jerry and I chewed on this problem for a while.
+And then this thought hit us of doing this alternating
+smoothing technique. And I got more and more excited about it. Now, I had one of the old Apples,
+one of the first desk-top computers with 64 kilobytes
+of memory. But it had a color screen that you could
+program. So I called up Jerry and I said, “Jerry,
+come on up. I’ll program it on the Apple and we’ll
+see if it works.”
+
+So we put in simulated data like Y equals A log
+X plus B and we ran the early version of ACE on
+the Apple. And every time there was iteration on the
+Apple screen, we would see the trace of the transformation.
+
+The Apple was so slow we would see one trace,
+and then Jerry and I would go have a beer and come
+back and look at the next trace. By midnight it was
+clear that the damn thing was converging toward
+log of X. So we knew we had it. From then on in,
+all we needed to do was nail it down with some
+theory and more experiments.
+
+Now the story how the technique got named ACE
+was this: Jerry and I were drinking in a Shattuck
+Avenue bar one day and we were discussing what
+to call it. And Jerry was all for ACE because it was
+a snazzy name and an acronym for alternating conditional
+expectations. I was reluctant. And I said,
+“Jerry, that’s a little too much. How can we call it
+ACE?”
+
+And all of a sudden Jerry pointed across the
+street. And there was the word “ACE.” He said,
+“Look at that” as though it were a sign from
+Heaven. And sure enough, what we were looking
+at was the Ace Hardware store sign. Seeing that
+convinced me that Jerry was right. It ought to be
+called ACE (Breiman and Friedman, 1985).
+
+Olshen: Now, is this informative as to how
+PIMPLE (Breiman, 1991) got its name?
+
+Breiman: No. Not quite with PIMPLE. I—
+
+Olshen: Tell me a little bit about PIMPLE first.
+
+Breiman: Okay. I was interested in functional
+approximation, because you can look at a lot of
+multivariate regression as really functional approximation
+with some noise added. So I was doing this
+reading into functional approximation in higher
+dimensions.
+
+I came across this method where they approximated
+functions by sums of products of univariate
+functions. That is, if you had a kernel function
+Kx y, you approximated it by a sum of products
+Fi
+x times Gi
+y. That rang a bell and I thought,
+“Why not try an approximation in regression by
+expanding the function as a product of simpler functions?”
+
+Okay. And the product sign is a pi. So that’s where
+pi came in. And the next word after pi was “implementation.”
+Well, what’s the natural acronym? PIMPLE!
+
+Olshen: What about arcing, bagging and boosting?
+
+Breiman: Okay. Yeah. This is fascinating stuff,
+Richard. In the last five years, there have been some
+really big breakthroughs in prediction. And I think
+combining predictors is one of the two big breakthroughs.
+And the idea of this was, okay, that suppose
+youtake CART, which is a pretty good classifier,
+but not a great classifier. I mean, for instance,
+neural nets do a much better job.
+
+Olshen: Well, suitably trained?
+
+Breiman: Suitably trained.
+
+Olshen: Against an untrained CART?
+
+Breiman: Right. Exactly. And I think I was
+thinking about this. I had written an article on
+subset selection in linear regression. I had realized
+then that subset selection in linear regression
+is really a very unstable procedure. If you tamper
+with the data just a little bit, the first best five variable
+regression may change to another set of five
+variables. And so I thought, “Okay. We can stabilize
+this by just perturbing the data a little and get the
+best five variable predictor. Perturb it again. Get
+the best five variable predictor and then average
+all these five variable predictors.” And sure enough,
+that worked out beautifully. This was published in
+an article in the Annals (Breiman, 1996b).
+
+Then, CART also had the same sort of feature.
+Youknow , if youaltered the data a little, youmight
+get a much different tree. And so I thought, “Well,
+why can’t I try the same thing with CART? If I alter
+the data for one tree, and then alter the data, grow
+another tree and then begin averaging them, or letting
+them vote for the most popular class, maybe I
+can increase the accuracy.”
+
+So the question was how to perturb the data?
+And then I realized, from some theoretical considerations
+that probably the best way was to start with
+the original training set, take a bootstrap sample
+from it, grow a new tree on the bootstrap sample,
+draw another bootstrap sample, grow another tree
+on it and, in the case of regression, just average
+them all. In the case of classification, have them
+vote for the most popular class.
+
+I called this “bagging” for “bootstrap aggregation.”
+And it worked out beautifully in terms of
+increasing prediction accuracy. There was a fair
+amount of excitement about it. And then Yoav Freund
+and Robert Schapire (Freund and Schapire,
+1996, 1997) came up with an algorithm they called
+Adaboost. Adaboost was designed to combine classifiers
+in such a way as to drive the training error to
+zero as rapidly as possible. And sure enough, it did
+so very rapidly. With most data sets that I’ve looked at, it drives the training error to zero in three or
+four combinations of classifiers.
+
+But it was interesting that even after the training
+error was zero, if youkept combining classifiers as
+per the Adaboost algorithm, the test set error kept
+decreasing long after the training set error was zero.
+And it kept decreasing even after youhad combined,
+say, a hundred classifiers.
+
+When youlook at Adaboost, what it is doing in
+a fairly complex way is putting increased weight
+on those members of the training sample that had
+been misclassified the last time around. Then a
+new training set is formed by sampling according
+to these weights, instead of equiprobable as in
+bagging, and this new training set is presented to
+the classification algorithm. And this algorithm did
+marvelously well.
+
+On most data sets that people have looked at,
+Adaboost did quite a good deal better than bagging
+did. This was a startling discovery because you
+could take a sow’s ear and transform it into a silk
+purse. That is, you could take a classifier like, say,
+everyday vanilla CART, which was good but not a
+great classifier, and by using this Adaboost algorithm,
+which was almost trivial to program, just
+iterated calls to CART, turn it into a world-class
+classification algorithm that, by almost any standards,
+had accuracy as good as anything else out
+there, and better than almost everything else out
+there.
+
+And so then the question became why: why was
+this complex algorithm working so well?
+
+Olshen: Well, let’s just back up. So we were talking
+about boosting now?
+
+Breiman: That’s right. Adaboost. When people
+talk about boosting, they’re usually talking about
+Adaboost. This was a wonderful and strange sort of
+not very well understood algorithm.
+
+Olshen: What about arcing (Breiman, 1998)?
+
+Breiman: Now, arcing came about this way.
+When I first thought about Adaboost and looked at
+it carefully, it became very clear what’s going on.
+You’re putting additional weight on those things
+that are hard to classify, those observations that
+are near the boundaries between classes.
+
+So, if youthink about it this way, then there’s
+a whole class of algorithms that can do the same
+thing. Youcan write down many algorithms that
+put increased weight on those cases more likely
+to be misclassified, and it will work pretty well. I
+called those algorithms arcing, for adaptive resampling
+or adaptive reweighting, and combining. So,
+for instance, I gave an ad hoc arcing algorithm that
+did as well as Adaboost.
+
+And incidentally, the combination methods, boosting
+and bagging, don’t have to be used with trees.
+Almost any classifier could be used with them.
+These were universal procedures to combine classifiers
+or regressions. There was a nice paper
+where the classifiers that were used were just simple
+hyperplanes, random hyperplanes (Ji and Ma,
+1997). They combined these random hyperplanes
+using an arcing algorithm and got marvelous
+results.
+
+So the whole thing became more and more
+intriguing.
