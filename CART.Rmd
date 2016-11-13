@@ -7,15 +7,15 @@ output: html_document
 
 **Olshen**: Let’s move on now. I want to hear about your more recent scientific interests. In no particular order, I can think of ACE (Breiman and Friedman, 1985), PIMPLE (Breiman, 1991), the little bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire, 1996, 1997), arcing (Breiman, 1998), and CARTR. Whereas perhaps in time they will be, for now they are not necessarily all statistical household words.
 
-**Olshen**: 现在让我们继续吧。我想听听你近来对科研兴趣。不分顺序，我能想到的是 ACE (Breiman and Friedman, 1985), PIMPLE (Breiman, 1991), the little bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire, 1996, 1997), arcing (Breiman, 1998), 和 CARTR。不管以后怎样，它们现在已经不是统计学的私房话了。
+**Olshen**: 现在让我们继续吧。我想听听更多你近来对于科研的兴趣。不分顺序，我能想到的是 ACE (Breiman and Friedman, 1985), PIMPLE (Breiman, 1991), the little bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire, 1996, 1997), arcing (Breiman, 1998), 和 CARTR。不管以后怎样，它们现在已经不是统计学的私房话了。
 
 **Breiman**: Probably for the part of my life that began after I resigned from UCLA, I think the most significant thing was CART, of which you are a part. And as you know , that was a very exciting period. All those ideas going back and forth among you and me and Jerry Friedman and Chuck Stone.
 
-**Breiman**: 大概在我从 UCLA 退学开始吧，我认为最明显的就是你也参与其中的 CART (存疑)，那是非常激动人心的时期。所有的想法回到从前，推动着你我还有 Jerry Friedman 和 Chuck Stone 前进。 
+**Breiman**: 大概在我从 UCLA 退学开始吧，我认为最明显的就是你也参与其中的 CART (存疑)，那是非常激动人心的时期。所有的创意想法在你我还有 Jerry Friedman 和 Chuck Stone 之间来回碰撞。 
 
 Even so, after the CART book (Breiman et al., 1984) was published, I think all of us—maybe you not as much as the rest of us—were completely fed up with thinking about trees. We just had had too heavy a dose. So our interest turned elsewhere. But Jerry and I kept talking.
 
-即便这样，CART 那本书(Breiman et al., 1984)出版后，我想我们全部——也许你不像其余三个那么严重——都厌倦了跟树相关的思考。我们一口气干得太多了，有点腻了。所以我们得兴趣转向了别的地方。但 Jerry 和我还在讨论。
+即便这样，CART 那本书(Breiman et al., 1984)出版后，我想我们全部——也许你不像其余三个那么严重——都厌倦了跟树相关的思考。我们一口气干得太多了，有点腻了。所以我们的兴趣转向了别的地方。但 Jerry 和我还在讨论。
 
 Jerry and I had both been hired by Bill Meisel as consultants to TSC. So I got to know Jerry fairly well a good number of years before I came up to Berkeley. Jerry and I kept talking because I think we’re two of the very few statisticians around who are actually interested in how to analyze high-dimensional data.
 
@@ -27,7 +27,7 @@ And one of the things we were talking about, one of the outstanding problems–t
 
 So Jerry and I chewed on this problem for a while. And then this thought hit us of doing this alternating smoothing technique. And I got more and more excited about it. Now, I had one of the old Apples, one of the first desk-top computers with 64 kilobytes of memory. But it had a color screen that you could program. So I called up Jerry and I said, “Jerry, come on up. I’ll program it on the Apple and we’ll see if it works.”
 
-有一阵子 Jerry 和我都在推敲这个问题。然后用光滑方法这个想法忽然在我脑海出现。我越想越激动。现在我还保留着其中一台旧苹果电脑，第一代有64kb内存的桌面电脑。它有一个彩色屏幕可以让你变成。所以我打电话给 Jerry，我说：“Jerry，快来，我在苹果上写代码，我们来看看它会不会有效。”
+有一阵子 Jerry 和我都在推敲这个问题。然后用光滑方法这个想法忽然在我脑海出现。我越想越激动。现在我还保留着其中一台旧苹果电脑，第一代有64kb内存的桌面电脑。它有一个彩色屏幕可以让你编程。所以我打电话给 Jerry，我说：“Jerry，快来，我在苹果上写代码，我们来看看它会不会有效。”
 
 So we put in simulated data like Y equals A log X plus B and we ran the early version of ACE on the Apple. And every time there was iteration on the Apple screen, we would see the trace of the transformation.
 

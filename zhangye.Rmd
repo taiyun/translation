@@ -14,7 +14,7 @@ output: html_document
 
 So they sort of turned them over to me. And one of the kids was a young boy who was getting picked on by two older girls. I wanted to find another boy to even the score, but I couldn’t find another boy whose parents were willing to let go of him. Then somebody asked why not take up a couple of young Mexican boys from this village of Mezcales.
 
-所以他们差不多把孩子托付给我。其中一个是小男孩，两个年长一点的女孩带着他。我想找另一个男孩来平衡一下，但我找不到，因为没有哪家父母愿意把孩子交给我照顾。这时有人建议我，何不从 Mezcales 村那里收养一对墨西哥小男孩呢？
+所以他们算是把孩子托付给我。其中一个是小男孩，两个年长一点的女孩带着他。我想找另一个男孩来平衡一下，但我找不到，因为没有哪家父母愿意把孩子交给我照顾。这时有人建议我，何不从 Mezcales 村那里收养一对墨西哥小男孩呢？
 
 I went through an incredible hell with the bureaucracies—both Mexican and the United States—but I managed to get these two kids up to live in my house with me. At that time it was in Topanga Canyon. They went to the local grammar school along with my American kids, and it was a great success.
 
@@ -58,7 +58,7 @@ And by the way, the local teachers really loved my Mexican kids. And—
 
 When I was at UCLA, I had decided that the way kids were being taught mathematics was all wrong because they wound up thinking of mathematics as an awful boring subject that had nothing to do with the everyday world around them. So I decided I would teach two fifth grade classes mathematics. One I taught was at UCLA—their experimental school for emotionally disturbed kids—and then at another school in the Valley, which was just straight middle class and –
 
-当我还在 UCLA 的时候，我已经认定，孩子们接受数学教育的方式错得一塌糊涂，他们惶恐地将数学看成一门可怕又无聊的科目，和他们身边的日常世界没有一点关系。所以我决定亲自教两个五年级生数学。我教的其中一个孩子在 UCLA ——他们有给情绪障碍的孩子开的实验学校——另一个 the Valley(存疑，我怀疑这里是硅谷的意思)，刚刚上中学(存疑，straight middle class)，并且——
+当我还在 UCLA 的时候，我已经认定，孩子们接受数学教育的方式错得一塌糊涂，他们惶恐地将数学看成一门可怕又无聊的科目，和他们身边的日常世界没有一点关系。所以我决定亲自教两个五年级生数学。我教的其中一个孩子在 UCLA ——他们有给情绪障碍的孩子开的实验学校——另一个在一所中上水平的学校，并且——
 
 **Olshen**: Were you paid for this?
 
@@ -98,7 +98,7 @@ But I worked hard and I put on a good media campaign and talked all over the pla
 
 Or is there some abiding theme that you have that permeates your teaching at all levels and also your writing? You talked about making mathematics fun and about relating it to the world around you—
 
-或者说有没有什么不变的主题，这些主题是渗透到了你不同程度教学和你的写作中的？你刚才谈到了让数学变得有意思，并且让数学联系到我们周围的生活——
+或者说有没有什么不变的主题，这些主题是渗透到了你不同程度教学和你的写作中的？你刚才谈到了让数学变得有意思，并且让数学联系到我们周围的生活---
 
 **Breiman**: Right.
 

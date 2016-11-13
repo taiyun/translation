@@ -14,7 +14,7 @@ output: html_document
 
 But then one day I got a phone call from Peter Bickel and he said, “Would you like to come up to Berkeley for a semester just to teach and give a seminar?” And I said “Sure.” Did that, went back and that was a good time.
 
-但有天我忽然接到 Peter Bickel 打来的一个电话， 他说：“你要不要来伯克利讲一个学期的课，搞个讨论班？”然后我说：“好。” Did that, went back and that was a good time.
+但有天我忽然接到 Peter Bickel 打来的一个电话， 他说：“你要不要来伯克利讲一个学期的课，搞个讨论班？”然后我说：“好。” 我确实那样做了,回到了伯克利,那是一段美好的时光。
 
 **Breiman**: Afterward, I went back down to LA and about a year later, I got another phone call— I think this time from Dave Brillinger—saying, “Okay. Would you like to come up and be a faculty member?”
 
@@ -114,7 +114,7 @@ I said, “$75,000.”
 
 He said, “Okay. Send me a proposal.” And Ed sure enough came through. And that was our first VAX. We got that installed and hired a graduate student as our first system manager. And from then on it was easier—once you break the ice, it gets easier. After many donations and grants, we are now running 2,000 accounts per year with four full time high level staff members and substantial computing power. We also support computing in economics and biostatistics.
 
-他说：“好的。给我发一份计划书。” Ed 最后搞定了。那是我们第一台 VAX 。我们把他组装起来，招了个研究生做系统管理员。自此之后，事情变得轻松了——一旦你破开冰层，事情就变得简单了。获得许多捐款和赠送滞后，我们现在每年有2,000账号，4个全职高级成员还有大量的计算资源。我们还支持经济学和生物统计的计算。
+他说：“好的。给我发一份计划书。” Ed 最后搞定了。那是我们第一台 VAX 。我们把他组装起来，招了个研究生做系统管理员。自此之后，事情变得轻松了——一旦你破开冰层，事情就变得简单了。获得许多捐款和赠送之后，我们现在每年有2,000账号，4个全职高级成员还有大量的计算资源。我们还支持经济学和生物统计的计算。
 
 **Olshen**: In parallel with your activities in forming the SCF, there was also the rise of the Berkeley UNIX Group. Was there any articulation between the statisticians and the Berkeley UNIX Group, and did you run UNIX or VMS on your VAX?
 
