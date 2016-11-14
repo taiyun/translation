@@ -58,11 +58,11 @@ So I think it was rather extraordinary that Berkeley managed to get me hired bac
 
 **Breiman**: In Evans Hall. They had a big multiprocessor computer main frame, and we had a little PDP-11 in the department, which was virtually worthless, had 32 kilobytes of main memory and so on. I remember my first visit down to the Central Computing Facility. I asked them, “What statistical packages do you have?”
 
-**Breiman**: 就在埃文斯楼。他们有一个大的多核主机，我们系里只有一个小的 PDP-111 (TODO:要加译者注)，它的主内存只有32kb，还有其他各种各样的问题。我记得我第一次去中央计算实验室。我问他们，“你们有什么统计包吗？”
+**Breiman**: 就在埃文斯楼。他们有一个大的多核主机，我们系里只有一个小的 PDP-11 (译者注：一款DEC公司出售的16位微机)，它的主内存只有32kb，还有其他各种各样的问题。我记得我第一次去中央计算实验室。我问他们，“你们有什么统计包吗？”
 
 And they said, “Well, I think we have BMDP. No. We don’t have the whole thing. We only have parts of it.”
 
-然后他们说，“啊，我们貌似有 BMDP (TODO: 译者注)。不，我们没有整个包。我们只有一部分。”
+然后他们说，“啊，我们貌似有 BMDP (译者注：由加州大学洛杉矶分校的 Wilfrid Dixon 开发的一个统计软件包)。不，我们没有整个包。我们只有一部分。”
 
 And I said, “Well, do you know what parts you have?”
 

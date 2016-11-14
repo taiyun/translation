@@ -11,7 +11,7 @@ output: html_document
 
 **Breiman**: Probably for the part of my life that began after I resigned from UCLA, I think the most significant thing was CART, of which you are a part. And as you know , that was a very exciting period. All those ideas going back and forth among you and me and Jerry Friedman and Chuck Stone.
 
-**Breiman**: 大概在我从 UCLA 退学开始吧，我认为最明显的就是你也参与其中的 CART (存疑)，那是非常激动人心的时期。所有的创意想法在你我还有 Jerry Friedman 和 Chuck Stone 之间来回碰撞。 
+**Breiman**: 大概在我从 UCLA 退学开始吧，我认为最明显的就是你也参与其中的 CART ，那是非常激动人心的时期。所有的创意想法在你我还有 Jerry Friedman 和 Chuck Stone 之间来回碰撞。 
 
 Even so, after the CART book (Breiman et al., 1984) was published, I think all of us—maybe you not as much as the rest of us—were completely fed up with thinking about trees. We just had had too heavy a dose. So our interest turned elsewhere. But Jerry and I kept talking.
 
