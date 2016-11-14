@@ -6,9 +6,9 @@ output: html_document
 ---
 
 ### A Conversation with Leo Breiman
-Leo Breiman访谈实录
-
+Leo Breiman 访谈实录
 ##Abstract
+
 **1：** Leo Breiman was born in New York City on January 27, 1928.
 His parents and he migrated five years later to San Francisco where he
 began school. During Leo’s junior high school years, his family moved
@@ -18,15 +18,15 @@ four years later with a major in physics. He earned his Master’s
 Degree in mathematics at Columbia University in 1950 and his Ph.D. in
 Mathematics at the University of California, Berkeley in 1954.
 
-1928年1月28日，Leo Breiman诞生于纽约，在他出生5年后他们全家移民去了旧金山，在这里他开始了学业生活。在他读初中的时候，他们全家又移民到了洛杉矶。1945年，Leo从Roosevelt高中毕业后考进了加州理工学院，在加州理工学院他花了4年时间主修物理。1950年，Leo拿到了哥伦比亚大学的数学系硕士毕业学位，1954年，他又拿到了加州大学伯克利分校的数学系博士毕业学位。
+1928年1月28日，Leo Breiman诞生于纽约，在他出生5年后他们全家移民去了旧金山，在这里他开始了学业生活。在他读初中的时候，他们全家又移民到了洛杉矶。1945年，Leo从Roosevelt高中毕业后考进了加州理工学院，在加州理工学院他花了4年时间主修物理。1950年，Leo拿到了哥伦比亚大学的数学系硕士学位，1954年，他又拿到了加州大学伯克利分校的数学系博士毕业学位。
 
 
-**2：**Leo has broad ranging scientific and mathematical interests, including information theory and the theory of gambling. He has been involved in applications coming from studies of automobile traffic, air quality and toxic substance recognition. He is the author of a celebrated graduate
-text on probability theory, is one of four authors of Classification and Regression Trees and its associated CARTR software and has also written two other books. With Jerome Friedman, Leo developed the ACE (alternating conditional expectations) algorithm by which nonlinear relationships between the dependent variable and predictor variables in regression are described. He is the originator of “bagging” and “arcing” both computer-intensive approaches to classification that are of much current interest.
+**2：**Leo has broad ranging scientific and mathematical interests, including information theory and the theory of gambling. He has been involved in applications coming from studies of automobile traffic, air quality and toxic substance recognition. He is the author of a celebrated graduate text on probability theory, is one of four authors of Classification and Regression Trees and its associated CARTR software and has also written two other books. With Jerome Friedman, Leo developed the ACE (alternating conditional expectations) algorithm by which nonlinear relationships between the dependent variable and predictor variables in regression are described. He is the originator of “bagging” and “arcing” both computer-intensive approaches to classification that are of much current interest.
 
-Leo对科学和数学有着广泛的兴趣，包括信息论和博弈论。他曾参与研究汽车交通，空气质量和有毒物质的识别的应用。
-他是概率论文本庆祝毕业的作者（存疑，“概率论文本庆祝毕业”翻译得很奇怪），分类回归树及其配套软件CARTR的四大作者之一，另外他还写了两本其他的书。Leo和Jerome Friedman一起发展了ACE（alternating conditional expectations）算法，该算法描述了因变量和自变量之间的非线性回归关系。
-他开创性地将密集型计算机方法“bagging” 和 “arcing”到分类方法里（存疑，这里翻译也很奇怪），目前很多人对此十分感兴趣。
+Leo对科学和数学有着广泛的兴趣，包括信息论和博弈论。他曾参与研究汽车交通，空气质量和有毒物质的识别。
+他是著名的概率论文本毕业的作者（存疑，“概率论文本庆祝毕业”翻译得很奇怪），分类回归树及其配套软件CARTR的四大作者之一，另外他还写了两本其他的书。Leo和Jerome Friedman一起发展了ACE（alternating conditional expectations）算法，该算法描述了因变量和自变量之间的非线性回归关系。
+他开创性地将 "bagging" 和 "arcing" 这两种需要大量计算的方法用于分类，目前很多人对此十分感兴趣。
+
 
 **3：**Leo’s professional positions have included being on the faculty of the
 Department of Mathematics at UCLA, an independent consultant for 13
@@ -97,9 +97,9 @@ and see salamis hanging and drying. It was something
 just a little upscale from the lower East Side
 of New York.
 
-而且我们都是去Roosevelt高中上学，这所高中致力于把移民的后代培养成医生、律师和科学家。
+而且我们都是去罗斯福（Roosevelt）高中上学，这所高中致力把移民的后代培养成医生、律师和科学家。
 这是一个很美好的地方。
-你可以走进一家熟食店，从泡菜桶里拿出泡菜，然后沿着街道一直走，可以比人晾晒看到salamis（意大利腊肠）。salamis是来自纽约下东区（纽约市曼哈顿区沿东河南端一带，犹太移民聚居地）有点高档的食品。
+你可以走进一家熟食店，从泡菜桶里拿出泡菜，然后沿着街道一直走，可以比人晾晒看到意大利腊肠（salamis）。意大利腊肠（salamis）是来自纽约下东区（纽约市曼哈顿区沿东河南端一带，犹太移民聚居地）有点高档的食品。
 
 
 
@@ -124,15 +124,15 @@ or something, it’s so completely different and
 fascinating that a bunch of us couldn’t stop working
 on it.
 
-**Breiman:**我再高中的时候对几何感兴趣，因为地理是第一门让我印象深刻的科目。
-你知道吗，当你解决完代数或者增加数字（“增加数字”是什么东西？）什么的问题之后，挑战几何问题是一件全然不同而且令人着迷的事，以至于我们一群人在研究它的时候根本停不下来。
+**Breiman:**我在高中的时候对几何感兴趣，因为几何是第一门让我印象深刻的科目。
+你知道吗，当你解决完代数或者加上数字之类的问题之后，挑战几何问题是一件全然不同而且令人着迷的事，以至于我们一群人在研究它的时候根本停不下来。
 
 **Olshen: **What more can youtell me about
 Roosevelt High School, the neighborhood, what got
 youinterested in Caltech and actually got youto
 Caltech?
 
-**Olshen: **关于Roosevelt高中社区你还有什么其他的能告诉我们的吗？是什么促使你对Caltech（加州理工学院）感兴趣并真正加入Caltech的呢？
+**Olshen: **关于罗斯福（Roosevelt）高中社区你还有什么其他的能告诉我们的吗？是什么促使你对加州理工学院(Caltech)感兴趣并真正加入加州理工学院(Caltech)的呢？
 
 **Breiman:** Well, Roosevelt High School, although
 it was in one of the poorest socioeconomic neighborhoods
@@ -150,11 +150,11 @@ school in the West and deciding that her son should
 go to Caltech.
 
 **Breiman:**
-嗯，虽然Roosevelt高中那时候是洛杉矶最穷的社会经济社区之一，但它也是一流的学术高中之一。
+嗯，虽然罗斯福(Roosevelt)高中社区那时候是洛杉矶最穷的社会经济社区之一，但它也是一流的学术高中之一。
 这个原因也许和Bronx科学高中的原因是一样的。
 
-这里充满了有激情的移民家庭的儿女，大家都知道
-我认为激发我去Caltech的原因是因为我母亲听说Caltech是西方最好的科学学校，并决定她儿子应该去Caltech。
+这里充满了有激情的移民家庭的儿女，大家都明确地知道一定要上大学。
+而激发我去加州理工学院(Caltech)的原因，是我母亲听说加州理工学院(Caltech)是西方最好的科学性学校，于是她决定她儿子应该去加州理工学院(Caltech)。
 
 **Olshen: ** Did you have sibs?
 
@@ -173,11 +173,11 @@ the one, the one son?
 
 **Breiman:**是的
 
-##CALTECH
-**Olshen: **Tell me a little bit about Caltech as it
+##加州理工学院(Caltech) 
+**Olshen: **Tell me a little bit about 加州理工学院(Caltech) as it
 was when you were there.
 
-**Olshen: **能跟我讲一下你还在那的时候，Caltech 是什么样的吗？
+**Olshen: **能跟我讲一下你还在加州理工学院(Caltech)的时候，那儿是什么样的吗？
 
 **Breiman:**Sure. The entering class at Caltech
 then was about 250 out of the many thousands who
@@ -199,10 +199,10 @@ going down and going down. And in my last year, I
 got four D’s in my major subject, which was physics.
 
 
-**Breiman:**当然。那年申请Caltech的几千人，但是最终进入的只有250人。为了能被录取，你必须参与考试16个小时，因为他们完全不相信高中成绩。
+**Breiman:**当然。那年申请加州理工学院(Caltech)的几千人，但是最终录取的只有250人。为了能被录取，你必须参与16个小时的考试，因为他们完全不相信高中成绩。
 你必须考数学、物理、化学和英语四科，每科考四小时，而且我们需要把它们都写出来。
 
-在Caltech的第一年，我确实表现得很好，也拿到了奖学金。但是第二、三、四年，我变得越来越烦闷，我厌倦了每天听到的不是科学就是电气，这让我开始封闭起来。这个地方就像是一个科学修道院。
+在加州理工学院(Caltech)的第一年，我确实表现得很好，也拿到了奖学金。但是第二、三、四年，我变得越来越烦闷，我厌倦了每天听到的不是科学就是电气，这让我开始封闭起来。这个地方就像是一个科学修道院。
 
 所以，我的成绩开始急剧下滑，在我最后一年时，我的主修科目物理得到了4个D。
 
@@ -242,7 +242,7 @@ a course in aesthetics, a course in Greek philosophy
 and so on. I decided this is not at all what I had in
 mind. So there I was back in math.
 
-**Breiman:**不是，实际上是虽然我毕业时的物理成绩太差了，但是我还还是对数学很感兴趣。我在数学方面很好，我到处申请，最终只有纽约的哥伦比亚大学接收了我。我的父母十分贫穷，而且没法承担我再哥大的学费。
+**Breiman:**不是，实际上是虽然我毕业时的物理成绩太差了，但是我还是对数学很感兴趣。我在数学方面很好，我到处申请，最终只有纽约的哥伦比亚大学接收了我。我的父母十分贫穷，而且没法承担我在哥大的学费。
 
 但是由于之前我打工存了一些钱，所以我最终还是有能力去哥大的。然后我用1年的时间在哥大获得了数学硕士学位，但是实际上我最开始去哥大时是想主修哲学的。
 
@@ -263,14 +263,14 @@ support myself, I worked one summer as a waiter in
 the Catskills and for another I was in the Merchant
 Marine.
 
-**Breiman:**那是1950年的时候，我从哥大拿到硕士毕业学位1年之后，我申请了伯克利的数学系，他们接受了我。为了能支付学费，我1个暑假在Catskills（卡次启尔山脉，位于纽约的南部）当服务员打暑假工，另一个暑假在Merchant Marine（商人海洋）。
+**Breiman:**那是1950年的时候，我从哥大拿到硕士毕业学位1年之后，我申请了伯克利的数学系，他们接受了我。为了能支付学费，我1个暑假在Catskills（卡次启尔山脉，位于纽约的南部）当服务员打暑假工，另一个暑假在美国商船学院（Merchant Marine）。
 
 
 **Olshen: **The Merchant Marine sounds good.
 
-**Olshen: **Merchant Marine（商人海洋）听起来很不错
+**Olshen: **美国商船学院（Merchant Marine）听起来很不错
 
-##GRADUATE SCHOOL AT BERKELEY(在伯克利的)
+##GRADUATE SCHOOL AT BERKELEY(毕业于伯克利)
 
 **Breiman:**Merchant Marine. Right. And I made
 a large amount of money for a kid in his early 20’s.
@@ -306,20 +306,20 @@ Shannon–Breiman–MacMillan theorem (Breiman,
 at Berkeley at that time. There was no separate
 statistics department. There were a few people at
 that time who Neyman managed to bring in, such
-as Michel Lo`eve. And I was taking mathematics
+as  Michel Loève è . And I was taking mathematics
 courses, and then I took the probability course from
-Michel Lo`eve, and I loved it. I loved probability theory.
+ Michel Loève è , and I loved it. I loved probability theory.
 And that was quite a class, a probability course
 of 10 people or so. Manny Parzen was in that class,
 Howard Tucker, too, and one or two other people
 who went on to become well known in statistics.
-Then I wrote a thesis. But Michel Lo`eve was a perfectionist,
+Then I wrote a thesis. But  Michel Loève è was a perfectionist,
 kept me working on the thesis, and working
 on the thesis.
 
-**Breiman:**好的，我当时是在伯克利的数学系，那会儿还没有独立的统计系。那个时候，Neyman想引入一些人，比如Michel Lo`eve。当时，我上的概率论这门课是Michel Lo`eve教的，我非常喜欢这门课，我喜欢概率论。
+**Breiman:**好的，我当时是在伯克利的数学系，那会儿还没有独立的统计系。那个时候，Neyman想引入一些人，比如 Michel Loève è 。当时，我上的概率论这门课是教的，我非常喜欢这门课，我喜欢概率论。
 
-这是一门很好的课程，一门大概只有10个人左右的课程。Manny Parzen也在这个课堂里，还有Howard Tucker，还有一两个后来在统计界声名远扬的人。然后我写了一篇论文，但是Michel Lo`eve是一个完美主义者，他让我在论文上不断下功夫。
+这是一门很好的课程，一门大概只有10个人左右的课程。Manny Parzen也在这个课堂里，还有Howard Tucker，还有一两个后来在统计界声名远扬的人。然后我写了一篇论文，但是 Michel Loève è 是一个完美主义者，他让我在论文上不断下功夫。
 
 **Olshen: **I can’t help but be reminded that Michel
 Lo´eve was my adviser when I was a freshman at
@@ -353,7 +353,7 @@ final defense of the thesis in about two weeks and
 put a stamp of approval on it. I was thrilled. Then
 I served almost two years in the Army.
 
-**Breiman:**这听起来很像是Michel的风格，所以虽然每次我写完论文觉得这已经很不错的时候，Michel都会说“我不知道”。然后，Harold Cram´er来到了伯克利一学期，我在他组织的研讨会上提交了我的论文结果。
+**Breiman:**这听起来很像是Michel的风格，所以每次我写完论文觉得这已经很不错的时候，Michel都会说“我不知道”。然后，Harold Cram´er来到了伯克利一学期，我在他组织的研讨会上提交了我的论文结果。
 
 他说，“我必须跟Michel好好谈谈，我觉得这篇论文已经很不错了”。
 但是，这时候一件更加重要的事情发生了，我收到了一个来自征兵局的通知，通知上说“注意！你已经用尽了所有的延期时间，我们希望在30天之后在这里看到你”
@@ -364,7 +364,7 @@ I served almost two years in the Army.
 related to the Shannon–Breiman–MacMillan
 theorem or to gambling?
 
-**Olshen: **等一下，我备份一下。你的毕业论文和Shannon–Breiman–MacMillan理论有关还是和你的博彩系统有关呢？
+**Olshen: **等一下，让我们回过头。你的毕业论文和Shannon–Breiman–MacMillan理论有关，还是和你的博彩系统有关呢？
 
 
 **Breiman:**No. What happened was that in the
@@ -387,11 +387,11 @@ was, for me, an incredibly inspirational person
 to work with. To see the way his mind worked was
 terrific.
 
-**Breiman:**不是的，当时我在的军队有个规定是，如果你能找到工作，你就可以提前两个月出去，我写信给Neyman教授，他给了我一个代理助理教授的工作，于是我就回来了，也就是那个时候我开始结识了David Blackwell。
+**Breiman:**不是的，当时军队有个规定是，如果你能找到工作，你就可以提前两个月出去，我写信给Neyman教授，他给了我一个代理助理教授的工作，于是我就回来了，也就是那个时候我开始结识了David Blackwell。
 
-我们那个时候一起开研讨会，他经常拿一些笔记来问我，“你会证明这个这个和这个吗？”
+我们那个时候一起开研讨会，他经常拿一些笔记来问我，“你会证明这个、这个和这个吗？”
 有一次，他给的一个笔记上写着，“你能证明这个几乎收敛于下面的式子吗？”
-我想了好些天，然后我觉得我可以做到，我觉得我已经有思路了。Shannon–Breiman–McMillan理论(Breiman, 1957)就是这么诞生的。和Dave Blackwell一起工作十分的鼓舞人心，他思考问题的方式真的非常了不起。
+我想了好些天，然后我觉得我可以做到，我觉得我已经有思路了，Shannon–Breiman–McMillan理论(Breiman, 1957)就是这么诞生的。和Dave Blackwell一起工作十分的鼓舞人心，他思考问题的方式真的非常了不起。
 
 **Olshen: **Did he get youinto this whole business
 of getting rich quickly on favorable games (Breiman,
@@ -472,7 +472,7 @@ while it lasted.
 
 
 **Breiman:**好的，实际上那是因为我的几个朋友在1964年或者1965年去了Puerto
-Vallarta，具体年份我记不太清楚了，但是正好就是在Night of the Iguana这部电影上映之后的一年。
+Vallarta，具体年份我记不太清楚了，但是正好就是在Night of the Iguana(即《巫山风雨夜》)这部电影上映之后的一年。
 当时，Puerto
 Vallarta还只是一个小城镇，你需要把你所有的水都煮沸才行。
 
@@ -533,14 +533,15 @@ to myself, “Look. Leo, you’re not cut out to be an
 abstract mathematician. It’s been fun, but this isn’t
 going to work for you.” So I resigned.
 
-**Breiman:**我进入UCLA是因为，我在伯克利只有一份代理职位（疑惑，这里不知道如何翻译acting appointment）。那时的规则非常严格，如果你是一名伯克利的博士生，那么你铁定不能在伯克利找到你的第一份工作。那么接下来对我来说，去UCLA对似乎是最好的选择了。
+**Breiman:**我进入UCLA是因为，我在伯克利只有一份署理职位。
+那时的规则非常严格，如果你是一名伯克利的博士生，那么你铁定不能在伯克利找到你的第一份工作。那么接下来对我来说，去UCLA对似乎是最好的选择了。
 
 所以我走在街上，并进入了数学系说，“我是来求职的”。他们收到了一些关于我的信件，然后我获得了一份工作。我在这儿一待就待了7年，实际上我很快就拿到了终身教授的职位。我是他们唯一的一名概率学家，所以
 我教研究生概率论的课程，教了大概3到4年。
 
-在整个教学过程中，我一直努力搞清楚概率论究竟在讲什么，有些需要证明的就证明清楚（这句话翻译得也不好）。
+在整个教学过程中，我一直专注于概率论中的证明，直到搞懂内在的原理。
 
-在UCLA待了大概7年之后，我对我自己说，“Leo,你天生就不是做摘要数学家（疑惑，abstract mathematician不知道如何翻译）的料，它虽然很有趣，但不是你该做的工作。”于是，我辞职了。
+在UCLA待了大概7年之后，我对我自己说，“Leo,你天生就不是做抽象数学家的料，它虽然很有趣，但不是你该做的工作。”于是，我辞职了。
 
 **Olshen: **Now, the book had been written by then?
 
@@ -573,7 +574,7 @@ Thus, I was tickled pink when SIAM approached
 me just three or four years ago and said, “We want
 to republish it in our classic series” (Breiman, 1968).
 
-**Breiman:**所以我拿出了放在我退休系统中的钱，然后我花了6个月时间专门来写这本书。
+**Breiman:**所以我拿出了放在我退休金中的钱，然后我花了6个月时间专门来写这本书。
 这是相当长的一段时间，因为写这本书需要很强的纪律性。
 但是同时这个过程又充满了乐趣，它是我的处女作。
 
@@ -611,10 +612,10 @@ white would come off. That was an altogether fascinating
 experience. I just loved the life in Africa and
 I was sorry to leave.
 
-**Breiman:**是的，确实是这样。我想要一个不同寻常的休假，所以我去了UNESCO（联合国教科文组织），然后我对他们说，“我不想在大学里教书，你们能给我什么其他的呢？”
-最后UNESCO告诉我，“我们有一个在Liberia（利比亚）当教育统计学家的机会给你。”
+**Breiman:**是的，确实是这样。我想要一个不同寻常的休假，所以我去了联合国教科文组织（UNESCO），然后我对他们说，“我不想在大学里教书，你们能给我什么其他的呢？”
+最后联合国教科文组织（UNESCO）告诉我，“我们有一个在利比亚（Liberia）当教育统计学家的机会给你。”
 
-所以我就以一名教育统计学家的身份去了Liberia（利比亚），那么他们需要什么呢？他们需要知道全国所有学校里的学生有多少人。为什么这会是个难题呢？因为整个国家只有50英里铺设好的道路。很多学校都在热带雨林丛林里，这些地方看起来根本没法进入。所以我们组了大概20支队伍，以骑车、划船和走路的方式走遍全国，深入到那些小村庄，把学校里的孩子们都叫出来，然后数一下人数。
+所以我就以一名教育统计学家的身份去了利比亚（Liberia），那么他们需要什么呢？他们需要知道全国所有学校里的学生有多少人。为什么这会是个难题呢？因为整个国家只有50英里铺设好的道路。很多学校都在热带雨林丛林里，这些地方看起来根本没法进入。所以我们组了大概20支队伍，以骑车、划船和走路的方式走遍全国，深入到那些小村庄，把学校里的孩子们都叫出来，然后数一下人数。
 
 所以我住在这里，艰苦跋涉去了很多边远地区，经过了热带雨林丛林中通往村庄的隧道。
 很神奇的是，当我到达村庄的时候，小孩子们会过来搓我的皮肤，看看能不能把我皮肤上的白色搓下来。
@@ -666,7 +667,7 @@ Engineering.
 
 **Olshen: **Did youknow him at Caltech?
 
-**Olshen: **你之前在Caltech的时候就认识他吗？
+**Olshen: **你之前在加州理工学院(Caltech)的时候就认识他吗？
 
 **Breiman:**No. Not at all. And he had written a
 book on pattern recognition. TSC was essentially a
