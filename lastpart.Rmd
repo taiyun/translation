@@ -96,6 +96,9 @@ Now, here is the thing that floors me, Richard. The Census Bureau admits in its 
 现在,问题来了。,Richard.普查委员会承认，它内部的出版物中至少57%的有关1990年调整，都是由于不良数据。你会认为在被1990年的数据的评估打击如此之狠之后,他们应该不会再这么做了。因为如果有些环节失败了,你就不能再去重复了。好吧,他们在2000年所做的事情更有意思。他们竟然重做了一遍,但是连评估都没有!
 
 ###ADVICE
+
+###建议
+
 **Olshen**: Leo, you have a record of wide ranging interest in and contributions to statistics and statistical computing and probability and pedagogy. What advice would you give to a young person today who wants to continue in your traditions? What should he or she study and why?
 
 **Olshen**:Leo,你在统计学,统计电脑处理、概率和教学这些方面有广泛的兴趣和贡献，你想对那些现如今想继承你的传统事业的年轻人提什么建议呢?他们应该学些什么以及为什么?
@@ -121,6 +124,9 @@ So I think if I were advising a young person today, I would have some reservatio
 所以我认为如果我现在要给年轻人提建议的话,对于学统计，我持保留意见。,但是最后,我有可能会说:"去学统计吧,但是记住统计的美妙之处，是在收集和利用数据来解决现实世界中有趣而又重要的问题。"
 
 ###The artist
+
+###艺术家
+
 **Olshen**:Thank you. The room in which we are having this conversation, even the house itself, is full of reminders of the breadth of your interests, not least your life as an artist. What about that side of Leo Breiman?
 
 **Olshen**:谢谢！从我们今天谈话的房间，甚至是整个房子的风格可以看出，你的兴趣爱好范围之广。你能谈谈作为艺术家的你是什么样子的吗？
