@@ -1,0 +1,150 @@
+---
+title: "CART, ACE, PIMPLE, THE LITTLE BOOTSTRAP, BAGGING, BOOSTING AND ARCING"
+author: "zhangyet"
+date: "2016/11/8"
+output: html_document
+---
+
+**Olshen**: Let’s move on now. I want to hear about your more recent scientific interests. In no particular order, I can think of ACE (Breiman and Friedman, 1985), PIMPLE (Breiman, 1991), the little bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire, 1996, 1997), arcing (Breiman, 1998), and CARTR. Whereas perhaps in time they will be, for now they are not necessarily all statistical household words.
+
+**Olshen**: 现在让我们继续吧。我想听听更多你近来对于科研的兴趣。不分顺序，我能想到的是 ACE (Breiman and Friedman, 1985), PIMPLE (Breiman, 1991), the little bootstrap (Breiman, 1992), bagging (Breiman, 1996a, 1996b), boosting (Freund and Schapire, 1996, 1997), arcing (Breiman, 1998), 和 CARTR。不管以后怎样，它们现在已经不是统计学的私房话了。
+
+**Breiman**: Probably for the part of my life that began after I resigned from UCLA, I think the most significant thing was CART, of which you are a part. And as you know , that was a very exciting period. All those ideas going back and forth among you and me and Jerry Friedman and Chuck Stone.
+
+**Breiman**: 大概在我从 UCLA 退学开始吧，我认为最明显的就是你也参与其中的 CART ，那是非常激动人心的时期。所有的创意想法在你我还有 Jerry Friedman 和 Chuck Stone 之间来回碰撞。 
+
+Even so, after the CART book (Breiman et al., 1984) was published, I think all of us—maybe you not as much as the rest of us—were completely fed up with thinking about trees. We just had had too heavy a dose. So our interest turned elsewhere. But Jerry and I kept talking.
+
+即便这样，CART 那本书(Breiman et al., 1984)出版后，我想我们全部——也许你不像其余三个那么严重——都厌倦了跟树相关的思考。我们一口气干得太多了，有点腻了。所以我们的兴趣转向了别的地方。但 Jerry 和我还在讨论。
+
+Jerry and I had both been hired by Bill Meisel as consultants to TSC. So I got to know Jerry fairly well a good number of years before I came up to Berkeley. Jerry and I kept talking because I think we’re two of the very few statisticians around who are actually interested in how to analyze high-dimensional data.
+
+Bill Meisel 把 Jerry 和我招进 TSC 当顾问。所以在我来伯克利之前，我熟悉 Jerry 好多年了。Jerry 和我继续讨论是因为我觉得我们是身边少数关心如何分析高维数据的统计学家。
+
+And one of the things we were talking about, one of the outstanding problems–this was in ’86, ’87—that John Tukey kept talking about was, “How do you transform variables in ordinary linear regression to get more effective prediction? Should you be using log X? Should you be using X? What?”
+
+我们其中一个话题，一个非常重要的问题——那是86年或者87年—— John Tukey 一直在讨论的问题就是，“怎样在线性回归中做变量变换，取得更好的预测效果？你应该用 log *X*还是用 *X*? 诸如此类”
+
+So Jerry and I chewed on this problem for a while. And then this thought hit us of doing this alternating smoothing technique. And I got more and more excited about it. Now, I had one of the old Apples, one of the first desk-top computers with 64 kilobytes of memory. But it had a color screen that you could program. So I called up Jerry and I said, “Jerry, come on up. I’ll program it on the Apple and we’ll see if it works.”
+
+有一阵子 Jerry 和我都在推敲这个问题。然后用光滑方法这个想法忽然在我脑海出现。我越想越激动。现在我还保留着其中一台旧苹果电脑，第一代有64kb内存的桌面电脑。它有一个彩色屏幕可以让你编程。所以我打电话给 Jerry，我说：“Jerry，快来，我在苹果上写代码，我们来看看它会不会有效。”
+
+So we put in simulated data like Y equals A log X plus B and we ran the early version of ACE on the Apple. And every time there was iteration on the Apple screen, we would see the trace of the transformation.
+
+然后我们输入 *Y* 等于 *A* log *X* 加 *B* 这样的模拟数据，在 Apple 上跑了一个 ACE 的早期版本。每次在苹果的屏幕上输出一次迭代结果的时候，我们可以看到转换的迹(trace)
+
+The Apple was so slow we would see one trace, and then Jerry and I would go have a beer and come back and look at the next trace. By midnight it was clear that the damn thing was converging toward log of X. So we knew we had it. From then on in, all we needed to do was nail it down with some theory and more experiments.
+
+那台苹果电脑很慢，看到一个迹之后，Jerry 和我就去喝杯啤酒，然后再回来看下一次迭代得到的迹。到了半夜，终于可以判断，这该死的东西收敛到 *X* 的对数。我就知道我们成功了。之后我们需要做的事情就是写下来，加上理论和更多的实验。
+
+Now the story how the technique got named ACE was this: Jerry and I were drinking in a Shattuck Avenue bar one day and we were discussing what to call it. And Jerry was all for ACE because it was a snazzy name and an acronym for alternating conditional expectations. I was reluctant. And I said, “Jerry, that’s a little too much. How can we call it ACE?”
+
+我们把这个技术命名为 ACE 的故事是这样的：Jerry和我有天在 Shattuck Avenue 酒吧喝酒，讨论该起个怎样的名字。Jerry 坚持叫 ACE, 因为这个名字很帅，而且它是交叉条件期望(alternating conditional expectations)的缩写。我不太愿意。我说：“Jerry，这有点过了。我们怎能叫它 ACE 呢？”
+
+And all of a sudden Jerry pointed across the street. And there was the word “ACE.” He said, “Look at that” as though it were a sign from Heaven. And sure enough, what we were looking at was the Ace Hardware store sign. Seeing that convinced me that Jerry was right. It ought to be called ACE (Breiman and Friedman, 1985).
+
+然后忽然，Jerry 指着街对面。那里有一个 "ACE"。 他说：“看那个。”好像那是天堂之门。当然，我们当时看到的是 Ace 硬件商店的招牌。看到这让我相信 Jerry 是对的。它应该叫 ACE (Breiman and Friedman, 1985).
+
+**Olshen**: Now, is this informative as to how PIMPLE (Breiman, 1991) got its name?
+
+**Olshen**: 好，命名 PIMPLE (Breiman, 1991) 也像这样有故事吗？
+
+**Breiman**: No. Not quite with PIMPLE. I—
+
+**Breiman**: 不。PIMPLE 不太像这样。我——
+
+**Olshen**: Tell me a little bit about PIMPLE first.
+
+**Olshen**: 先告诉我一点关于 PIMPLE 的事情。
+
+**Breiman**: Okay. I was interested in functional approximation, because you can look at a lot of multivariate regression as really functional approximation with some noise added. So I was doing this reading into functional approximation in higher dimensions.
+
+**Breiman**: 好的。我当时对泛涵逼近很感兴趣，因为你可以把很多多元回归看作加了噪声的泛涵逼近。所以我读了很多高维泛涵逼近的文献。
+
+I came across this method where they approximated functions by sums of products of univariate functions. That is, if you had a kernel function Kx y, you approximated it by a sum of products Fi x times Gi y. That rang a bell and I thought, “Why not try an approximation in regression by expanding the function as a product of simpler functions?”
+
+我看到给方法，用单变量函数来逼近函数。就是说，如果你有一个核函数 $K(x, y)$， 你用 $F_i(x)$ 乘以 $G_i(y)$ 的积来逼近它。我仿佛醍醐灌顶，我想：“为什么不试试将函数展开成简单函数乘积这种办法来做回归的逼近呢？”
+
+Okay. And the product sign is a pi. So that’s where pi came in. And the next word after pi was “implementation.” Well, what’s the natural acronym? PIMPLE!
+
+好。乘积符号是 pi(译者注：$\Pi$), 所以这是 pi 的来历。然后 pi 之后的单词是 "implementation"（实现）好了，自然而然的同义词是啥？PIMPLE!
+
+**Olshen**: What about arcing, bagging and boosting?
+那 arcing, bagging 和 boosting 这些算法呢？
+
+
+**Breiman**: Okay. Yeah. This is fascinating stuff, Richard. In the last five years, there have been some really big breakthroughs in prediction. And I think combining predictors is one of the two big breakthroughs. And the idea of this was, okay, that suppose you take CART, which is a pretty good classifier, but not a great classifier. I mean, for instance, neural nets do a much better job.
+
+**Breiman**: 好的。耶，这些算法很迷人，Richard。在过去5年，预测方面有突破性的进展。而我认为，混合预测器就是两个大突破之一。这个想法就是，好，我们假设你用 CART, 它是一个相当好的分类器，但还不够好。我的意思是，在某些情况下，神经网络好得多。
+
+**Olshen**: Well, suitably trained?
+
+**Olshen**: 嗯，在适当训练的情况下？
+
+**Breiman**: Suitably trained.
+
+**Breiman**: 适当训练。
+
+**Olshen**: Against an untrained CART?
+
+**Olshen**: 跟一个没有训练的 CART 相比？
+
+**Breiman**: Right. Exactly. And I think I was thinking about this. I had written an article on subset selection in linear regression. I had realized then that subset selection in linear regression is really a very unstable procedure. If you tamper with the data just a little bit, the first best five variable regression may change to another set of five variables. And so I thought, “Okay. We can stabilize this by just perturbing the data a little and get the best five variable predictor. Perturb it again. Get the best five variable predictor and then average all these five variable predictors.” And sure enough, that worked out beautifully. This was published in an article in the Annals (Breiman, 1996b).
+
+**Breiman**:对。就是这样。我想我当时一直再考虑这个。我写了一篇关于线性回归中的变量子集选取的文章。我意识到线性回归中的子集选取问题非常不稳定。如果你稍微扰动一下数据，回归的5个最好的变量就会变成另外的五个。所以我想：“好。我们可以通过给数据加扰动把它稳定下来，得到五个最好的预测变量。然后再次扰动数据。再拿到五个最好的变换，最后把这些五变量的预测器作一个平均。”这确实做得很漂亮。这个结果在 Annals (Breiman, 1996b) 发表了。
+
+Then, CART also had the same sort of feature. You know , if you altered the data a little, you might get a much different tree. And so I thought, “Well, why can’t I try the same thing with CART? If I alter the data for one tree, and then alter the data, grow another tree and then begin averaging them, or letting them vote for the most popular class, maybe I can increase the accuracy.”
+
+接下来，CART 也有同样的特性。你知道的，如果你稍微改变数据，你会得到一棵非常不同的树。所以我就像，“那好，为什么我不试试在 CART 上做同样的事情呢？如果我改变数据生成一棵树，然后再次改变数据，生成另一棵树，最后取它们的均值或者让它们投票选出票数最多的类，没准我能提高准确性。”
+
+So the question was how to perturb the data? And then I realized, from some theoretical considerations that probably the best way was to start with the original training set, take a bootstrap sample from it, grow a new tree on the bootstrap sample, draw another bootstrap sample, grow another tree on it and, in the case of regression, just average them all. In the case of classification, have them vote for the most popular class.
+
+所以问题变成怎样扰动数据？我那时候意识到，基于理论上的考量，最好就是从原始的数据集出发，从中自抽样，在自抽样样本中生成新的树，再取出另外的自抽样样本，在上面生成另外的树，如果是回归，我们就取它们的均值。如果是分类，就让它们投票选票数最多的类。
+
+I called this “bagging” for “bootstrap aggregation.” And it worked out beautifully in terms of increasing prediction accuracy. There was a fair amount of excitement about it. And then Yoav Freund and Robert Schapire (Freund and Schapire, 1996, 1997) came up with an algorithm they called Adaboost. Adaboost was designed to combine classifiers in such a way as to drive the training error to zero as rapidly as possible. And sure enough, it did so very rapidly. With most data sets that I’ve looked at, it drives the training error to zero in three or four combinations of classifiers.
+
+我把这种方法命名为 "bagging"，意思是“自抽样聚合”。它的预测精度不断提高，表现得非常漂亮。它还有很多令人激动的特性。之后 Yoav Freund 和 Robert Schapire (Freund and Schapire, 1996, 1997) 想出了一个算法，他们叫作 Adaboost。 Adaboost 采用了让训练误差下降尽可能快的方法将分类器组合在一起。它确实相当快。在大多数我见过的数据集里面，它用3到4个分类器就能把训练误差降低到0.
+
+But it was interesting that even after the training error was zero, if you kept combining classifiers as per the Adaboost algorithm, the test set error kept decreasing long after the training set error was zero. And it kept decreasing even after youhad combined, say, a hundred classifiers.
+
+但很有趣的是，即使在训练误差下降到零之后，你继续往 Adaboost 算法里面组合更多的分类器，测试集的误差会在训练机误差为零之后长期保持下降。甚至在你组合了，比如说，一百个分类器之后，测试集误差还在下降。
+
+When you look at Adaboost, what it is doing in a fairly complex way is putting increased weight on those members of the training sample that had been misclassified the last time around. Then a new training set is formed by sampling according to these weights, instead of equiprobable as in bagging, and this new training set is presented to the classification algorithm. And this algorithm did marvelously well.
+
+你去看 Adaboost 的时候，你会发现，它用了一种比较复杂的方法，去增加那些在上一轮里面被误判的样本的权重。然后新的训练集就是根据这个权重，去取样，而不是像 bagging 那样等可能地抽样，之后把新的训练集给分类算法。这个算法效果好得不可思议。
+
+On most data sets that people have looked at, Adaboost did quite a good deal better than bagging did. This was a startling discovery because you could take a sow’s ear and transform it into a silk purse. That is, you could take a classifier like, say, everyday vanilla CART, which was good but not a great classifier, and by using this Adaboost algorithm, which was almost trivial to program, just iterated calls to CART, turn it into a world-class classification algorithm that, by almost any standards, had accuracy as good as anything else out there, and better than almost everything else out there.
+
+在人们见过的大部分数据集里面，Adaboost 比 bagging 好很多。这是一个惊人的发现，简直就是化腐朽为神奇。就是，你用一个分类器，比方说一个常见的 CART, 它是一个好的分类，但又不是特别好，，但是用了 Adaboost 算法之后，这个编程很简单，只需要迭代调用 CART，它就变成一个世界级的分类算法，
+
+And so then the question became why: why was this complex algorithm working so well?
+
+所以问题变成：为什么这个复杂的算法做得这么好？
+
+**Olshen**: Well, let’s just back up. So we were talking about boosting now?
+
+**Olshen**: 好得，让我们回头看看。我们现在讨论 boosting ?
+
+**Breiman**: That’s right. Adaboost. When people talk about boosting, they’re usually talking about Adaboost. This was a wonderful and strange sort of not very well understood algorithm.
+
+**Breiman**: 对。 Adaboost. 当人们说起 boosting 的时候，通常就是讨论 Adaboost. 这是一个美妙，有点奇怪同时我们对它的了解还不是十分透彻的算法。
+
+**Olshen**: What about arcing (Breiman, 1998)?
+
+**Olshen**: 那 acing (Breiman, 1998) 呢？
+
+**Breiman**: Now, arcing came about this way. When I first thought about Adaboost and looked at it carefully, it became very clear what’s going on. You’re putting additional weight on those things that are hard to classify, those observations that are near the boundaries between classes.
+
+**Breiman**: arcing 是这样来的。我第一次思考 Adaboost 并仔细观察它的时候，它的思路变得很清楚。你增加那些难以分类的样本的权重，这些观察样本更靠近分类的边界。
+
+So, if you think about it this way, then there’s a whole class of algorithms that can do the same thing. You can write down many algorithms that put increased weight on those cases more likely to be misclassified, and it will work pretty well. I called those algorithms arcing, for adaptive resampling or adaptive reweighting, and combining. So, for instance, I gave an ad hoc arcing algorithm that did as well as Adaboost.
+
+所以你仔细思索这个方法，就会有一整套的算法可以做同样的事情。你可以写下很多算法，这些算法会增加可能被错误分类的样本的权重，它会干得很好。我把这些方法叫作 acing, 意思是自适应重抽样或者自适应重定权重还有组合。所以，比如说，我给出一个特定的 arcing 算法可以和 Adaboosting 做得一样好。
+
+And incidentally, the combination methods, boosting and bagging, don’t have to be used with trees. Almost any classifier could be used with them.These were universal procedures to combine classifiers or regressions. There was a nice paper where the classifiers that were used were just simple hyperplanes, random hyperplanes (Ji and Ma, 1997). They combined these random hyperplanes using an arcing algorithm and got marvelous results.
+
+意外地，组合方法，boosting 和 bagging，都没有考虑用树去做。几乎所有分类器都可以用树去做。这些方法是组合分类器或者回归的一般套路。有一篇关于分类器的好文章，他们仅仅用了简单超平面，随机超平面(Ji and Ma, 1997)。他们用 arcing 算法将随机超平面组合起来，取得了惊人的结果。
+
+So the whole thing became more and more intriguing.
+
+整件事情变得越来越有趣了。
