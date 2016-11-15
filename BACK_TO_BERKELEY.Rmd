@@ -10,7 +10,7 @@ output: html_document
 
 **Breiman**: In my consulting, I had gotten various offers, to my surprise, to come back (as my friends called it, “come back in out of the cold”) to a university. And I didn’t particularly want to. I was having a wonderful time consulting. There I was solving real problems, working with data, things that I loved.
 
-**Breiman**: 在我当咨询顾问期间，令我讶异地，我获得回到（用我朋友的话来说， "come back in out of the cold"）大学工作的工作机会。而我不是特别乐意。我在咨询行业工作得十分愉快。在其中我解决真正得问题，用数据工作，如此等等，都是我热爱的。
+**Breiman**: 在我当咨询顾问期间，令我讶异地，我获得回到（用我朋友的话来说， "改邪归正"）大学工作的工作机会。而我不是特别乐意。我在咨询行业工作得十分愉快。在其中我解决真正得问题，用数据工作，如此等等，都是我热爱的。
 
 But then one day I got a phone call from Peter Bickel and he said, “Would you like to come up to Berkeley for a semester just to teach and give a seminar?” And I said “Sure.” Did that, went back and that was a good time.
 
