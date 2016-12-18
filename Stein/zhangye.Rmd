@@ -30,6 +30,22 @@ Charles Stein于1920年3月22日出生在纽约布鲁克林，1940年在芝加�
  
  **DeGroot**: 所以你想成为统计方面的博士生，并以这个成果作为你论文的基础？
  
+ **Stein**: 是的，而且我做到了。1946年二月我被空军解雇之后我马上就去了哥伦比亚大学，一年半之后就拿到学位了。然后Neyman给了我一份在伯克利的工作，所以我铁了心搞统计了。
  
+ **DeGroot**: 你在伯克利的时候，Wald在哥伦比亚吗？
+ 
+ **Stein**: 是的， Wald在那里。Hotelling刚走，Wolfowitz也在那里。P. L. Hsu正在访问;Doob也是；B. O. Koopman在那里，在另一个系。Ted Anderson在下一年来了。
+ 
+ **DeGrood**: 虽然你已经完成你的论文了，但是还是和他们联系起来来？[待推敲]
+ 
+ **Stein**: 是的。
+ 
+ **DeGroot**: 让我们回头一下。你在芝加哥读学士的时候你学了什么？那是Hutchins当校长的时候，有一个通识教育计划？那是你失业的原因吗？
+ 
+ **Stein**: 不，还没有强制的通识教育。在头两年我们要求上四门普查课程加上英语还有一门外语以及一些数学课程。但除此之外，我们自由自在，想干什么就干什么。L. M. Graves教授给了我很大的鼓励。我在那里的第一学季我选了他当分析几何的老师。他鼓励我第二学季选修本科的分析课程。同时，我第二学季的微积分学得很糟糕，但他帮我向Sanger教授求情，让我可以在他那里上课。那门课程我上得很差劲但我的实分析很好。So that was the start of a very mixed career in mathematics. 第二年Saunders Mac Lane来访问，他上第一学季的代数课，这门课后来成为研究生入门课程，但它只是哔Brikhoff和Mac Lane的书稍微高级一点。第二第三学季的课是Albert上的，我相信是的，用他自己的《现代高等代数》(*Modern Higher Algebra*)
+ 
+ **DeGroot**: 关于Birkhoff和Mac Lane你有什么想说的吗？[待推敲:Had you had any experience in the Birhoff and Mac Lane type of material?]
+ 
+ **Stein**: 不。我不太懂代数，但其实你并不一定需要懂很多。这就是纯数学美妙的地方。它有一种自包含的趋势。
 
 
