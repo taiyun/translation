@@ -27,7 +27,7 @@ Charles Stein于1920年3月22日出生在纽约布鲁克林，1940年在芝加�
 
 **DeGroot**: 处理这些问题引起的兴趣将你引回统计研究所吗？
 
- **Stein**: 是的。当然我一直都想当数学家，但我发现如果我已经拿到纯数学学位，我将必须接受我选择的题目的指导; 然而，我已经发表了一篇关于Student假设在独立于方差的情况下双样本检验的文章了[Ann. Math. Statist. **16** (1945) 243-258]，这是我和Kenneth Arrow之间非正式谈话以及浏览Wald的一些工作的结果。
+ **Stein**: 是的。当然我一直都想当数学家，但我发现如果我要拿到纯数学学位，我将必须接受我选择的题目的指导; 然而，我已经发表了一篇关于Student假设在独立于方差的情况下双样本检验的文章了[Ann. Math. Statist. **16** (1945) 243-258]，这是我和Kenneth Arrow之间非正式谈话以及浏览Wald的一些工作的结果。
 
  **DeGroot**: 所以你想成为统计方面的博士生，并以这个成果作为你论文的基础？
 
@@ -74,7 +74,7 @@ Charles Stein于1920年3月22日出生在纽约布鲁克林，1940年在芝加�
 
 **DeGrood**: 这就是你对两阶段过程感兴趣的因由吗？
 
-**Stein**: 是的，我对此感兴趣是因为Arrow把Wald关于序列分析的保密论文借给了我，并问我有何看法，论文有何要点。Wald没有取得只依赖于均值之差而不依赖于方差情况下t检验的序列化版本，他对此表示失望。所以Kenneth Arrow算是建议我去做这个问题，~~毕竟他告诉我这是一个严肃的问题我的意思是，他告诉我这至少是一个严肃的问题。然后我开始思考这个问题，察觉如何解决它。我大约花了一周时期确定我的方法是对的。但它其实是很容易想到的。
+**Stein**: 是的，我对此感兴趣是因为Arrow把Wald关于序列分析的保密论文借给了我，并问我有何看法，论文有何要点。Wald没有取得只依赖于均值之差而不依赖于方差情况下t检验的序列化版本，他对此表示失望。所以Kenneth Arrow算是建议我去做这个问题，毕竟他告诉我这是一个严肃的问题，我的意思是，他告诉我这至少是一个严肃的问题。然后我开始思考这个问题，察觉如何解决它。我大约花了一周时期确定我的方法是对的。但它其实是很容易想到的。
 
 尽管我不确定我们是否取得预期的成功，但是和这样一群人工作，依然鼓舞了我。你要知道，这给了我发展的可能性。特别是在战后，我们聚在Asheville等待退役的时候，我们组织了一个非正式的讨论班。我做了一些工作，对Wald的成果作了一些不太重要的扩展，推广到一些最紧检验上。然后Gil Hunt向我指出我其实无意间做了群论的工作。
 
@@ -224,7 +224,7 @@ Charles Stein于1920年3月22日出生在纽约布鲁克林，1940年在芝加�
 
 **DeGroot**: 自从1953年你加入斯坦福统计系，你在西雅图、伯克利、康奈尔、牛津和欧洲其他多地休假……我很好奇休假时你会做些什么？当你离开的时候，你会改变你的工作风格或者研究的主题吗？
 
-**Stein**: 并没有。有时我会受外界影响因素的影响，比如我身边的其他人或者仅仅是我最近读的一些文章。但是这些往往是相当次要的东西。最近就有两个。我在Turan-Kubilius上发表了一篇关于概率数理论的文章[Tech. Report No.220,Dept. of Statistics, Stanford Univ., July 1984]，那就是受匈牙利数学家Ruzsa的一篇文章的启发写出来的。然后，David Hinkley 在这的研讨课引导我做了一些基于Welch和Peers文章中的先验分布的置信集 [Welch, B. L. and Peers, H. W. “On formulae for confidence points based on integrals of weighted likelihoods” J. Roy. Statist. Soc. Ser. B 25(1963)318-329] 的研究。我写了一篇关于这个话题的技术报告。[Tech. Report No.180, Dept. of Statistics, Stanford Univ. November 1981; to appear in the Proceedings of the Banach Center, Warsaw] 它的想法就是选择合适的先验分布，可以收敛到不同于标准概率收敛到的1/n（待推敲），几乎任何的先验分布会给出$1/n^{1 /2}$。在一维中，它是Jeffreys先验，在更高维中显然就不是了。
+**Stein**: 并没有。有时我会受外界影响因素的影响，比如我身边的其他人或者仅仅是我最近读的一些文章。但是这些往往是相当次要的东西。最近就有两个。我在Turan-Kubilius上发表了一篇关于概率数理论的文章[Tech. Report No.220,Dept. of Statistics, Stanford Univ., July 1984]，那就是受匈牙利数学家Ruzsa的一篇文章的启发写出来的。然后，David Hinkley 在这的研讨课引导我做了一些基于Welch和Peers文章中的先验分布的置信集 [Welch, B. L. and Peers, H. W. “On formulae for confidence points based on integrals of weighted likelihoods” J. Roy. Statist. Soc. Ser. B 25(1963)318-329] 的研究。我写了一篇关于这个话题的技术报告。[Tech. Report No.180, Dept. of Statistics, Stanford Univ. November 1981; to appear in the Proceedings of the Banach Center, Warsaw] 它的想法就是选择合适的先验分布，可以得到不同于标准概率收敛的1/n阶收敛，几乎任何的先验分布都会给出$1/n^{1 /2}$阶。在一维中，它是Jeffreys先验，在更高维中显然就不是了。
 
 **DeGroot**: 我了解。我感觉你研究的大多数问题是以某种方式内部生成并且非常吸引你的有趣的问题。
 
